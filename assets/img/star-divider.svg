@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 24" width="240" height="24" fill="none">
+  <!-- Subtle line left -->
+  <line x1="0" y1="12" x2="95" y2="12" stroke="#D6A52B" stroke-width="1" stroke-opacity="0.4" />
+  <circle cx="102" cy="12" r="1.5" fill="#D6A52B" />
+  <!-- Central Star -->
+  <polygon points="120,4 122.5,9.5 128,10 124,14 125,19.5 120,16.5 115,19.5 116,14 112,10 117.5,9.5" fill="#D6A52B" />
+  <!-- Subtle line right -->
+  <circle cx="138" cy="12" r="1.5" fill="#D6A52B" />
+  <line x1="145" y1="12" x2="240" y2="12" stroke="#D6A52B" stroke-width="1" stroke-opacity="0.4" />
+</svg>

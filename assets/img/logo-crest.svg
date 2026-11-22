@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 64" width="60" height="64" fill="none">
+  <!-- Regimental Shield & Crest - Ex-Risaldar Major M. K. Pawar Academy -->
+  <g id="regimental-shield">
+    <!-- Outer Shield Border -->
+    <path d="M30 4 L54 14 V34 C54 48 30 58 30 58 C30 58 6 48 6 34 V14 Z" stroke="#B8892B" stroke-width="2.5" fill="#0A1628" stroke-linejoin="round"/>
+    <!-- Inner Gold Inset -->
+    <path d="M30 9 L49 17 V33 C49 43.5 30 52 30 52 C30 52 11 43.5 11 33 V17 Z" stroke="#F5C518" stroke-width="1.2" stroke-opacity="0.85" fill="#0C1B30"/>
+    
+    <!-- Crossed Cavalry Sabres Silhouette -->
+    <path d="M17 21 C22 26 31 34 43 41" stroke="#F5C518" stroke-width="2" stroke-linecap="round"/>
+    <path d="M43 21 C38 26 29 34 17 41" stroke="#F5C518" stroke-width="2" stroke-linecap="round"/>
+    <!-- Sabre Guard / Hilt Accents -->
+    <circle cx="30" cy="31" r="3" fill="#F5C518"/>
+    
+    <!-- Star at Crest Top -->
+    <polygon points="30,13 31.8,17.2 36,17.8 33,20.8 33.6,25 30,22.6 26.4,25 27,20.8 24,17.8 28.2,17.2" fill="#F5C518"/>
+  </g>
+</svg>

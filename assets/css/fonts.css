@@ -1,0 +1,120 @@
+/* ==========================================================================
+   FONTS — MK PAWAR NDA ACADEMY (v2 — NAVY / YELLOW / WHITE)
+   "THE SERVICE FILE" — Transcity + Plus Jakarta Sans system
+   ==========================================================================
+
+   NOTE: Noto Serif Devanagari is loaded via Google Fonts link tag in HTML:
+   <link rel="preconnect" href="https://fonts.googleapis.com">
+   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+   <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Devanagari:wght@400;600;700&display=swap" rel="stylesheet">
+   ========================================================================== */
+
+/* ── MILEAST (Primary Website Font Everywhere) ─────────────────────────── */
+@font-face {
+  font-family: 'Mileast';
+  src: url('../fonts/Mileast.woff2') format('woff2'),
+       url('../fonts/Mileast.otf')   format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: block; /* prevent FOUT */
+}
+
+@font-face {
+  font-family: 'Mileast';
+  src: url('../fonts/Mileast-Italic.woff2') format('woff2'),
+       url('../fonts/Mileast Italic.otf') format('opentype');
+  font-weight: 400;
+  font-style: italic;
+  font-display: block;
+}
+
+/* ── TRANSCITY (Alternative Display) ───────────────────────────────────── */
+@font-face {
+  font-family: 'Transcity';
+  src: url('../fonts/Transcity.woff2') format('woff2'),
+       url('../fonts/Transcity.otf')   format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: block;
+}
+
+/* ── CINZEL (Backup Elegant Display) ───────────────────────────────────── */
+@font-face {
+  font-family: 'Cinzel';
+  src: url('../fonts/cinzel-600-normal.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Cinzel';
+  src: url('../fonts/cinzel-700-normal.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* ── PLUS JAKARTA SANS (Body / UI) ─────────────────────────────────────── */
+@font-face {
+  font-family: 'Plus Jakarta Sans';
+  src: url('../fonts/plus-jakarta-sans-400-normal.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Plus Jakarta Sans';
+  src: url('../fonts/plus-jakarta-sans-400-italic.woff2') format('woff2');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Plus Jakarta Sans';
+  src: url('../fonts/plus-jakarta-sans-500-normal.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Plus Jakarta Sans';
+  src: url('../fonts/plus-jakarta-sans-600-normal.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Plus Jakarta Sans';
+  src: url('../fonts/plus-jakarta-sans-600-italic.woff2') format('woff2');
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Plus Jakarta Sans';
+  src: url('../fonts/plus-jakarta-sans-700-normal.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Plus Jakarta Sans';
+  src: url('../fonts/plus-jakarta-sans-800-normal.woff2') format('woff2');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* ── MONOSPACE — System stack only (no WOFF2 available) ────────────────── */
+/* var(--font-mono): 'JetBrains Mono', 'Courier New', monospace */
+/* Uses OS-installed JetBrains Mono if present, otherwise Courier New fallback */
+
+/* ── DEVANAGARI — Google Fonts (requires link tag in HTML, see note above) ─ */
+/* var(--font-deva): 'Noto Serif Devanagari', serif */

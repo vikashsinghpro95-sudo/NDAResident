@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 32" width="320" height="32" fill="none">
+  <!-- Outer double hairlines -->
+  <line x1="0" y1="14" x2="135" y2="14" stroke="#D6A52B" stroke-width="0.75" stroke-opacity="0.5" />
+  <line x1="0" y1="18" x2="135" y2="18" stroke="#D6A52B" stroke-width="0.75" stroke-opacity="0.3" />
+  
+  <line x1="185" y1="14" x2="320" y2="14" stroke="#D6A52B" stroke-width="0.75" stroke-opacity="0.5" />
+  <line x1="185" y1="18" x2="320" y2="18" stroke="#D6A52B" stroke-width="0.75" stroke-opacity="0.3" />
+  
+  <!-- Central Compass Rose / Cardinal Mark -->
+  <g transform="translate(160, 16)">
+    <circle cx="0" cy="0" r="10" stroke="#D6A52B" stroke-width="0.8" stroke-opacity="0.7" fill="none" />
+    <circle cx="0" cy="0" r="3" fill="#D6A52B" />
+    <!-- North Arrow -->
+    <polygon points="0,-12 2,-3 0,-1 -2,-3" fill="#D6A52B" />
+    <!-- South Arrow -->
+    <polygon points="0,12 2,3 0,1 -2,3" fill="#D6A52B" fill-opacity="0.6" />
+    <!-- East Arrow -->
+    <polygon points="12,0 3,2 1,0 3,-2" fill="#D6A52B" fill-opacity="0.6" />
+    <!-- West Arrow -->
+    <polygon points="-12,0 -3,2 -1,0 -3,-2" fill="#D6A52B" fill-opacity="0.6" />
+  </g>
+</svg>

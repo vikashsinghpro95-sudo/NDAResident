@@ -1,0 +1,100 @@
+/* ==========================================================================
+   DESIGN TOKENS — MK PAWAR NDA ACADEMY (v2 — NAVY / YELLOW / WHITE)
+   "THE SERVICE FILE" — Redesigned with Transcity font system
+   ========================================================================== */
+
+:root {
+  /* ── BRAND PALETTE ─────────────────────────────────────────────── */
+  --navy:          #0A1628;        /* Primary deep navy (backgrounds, headers) */
+  --navy-mid:      #112240;        /* Slightly lighter navy for sections */
+  --navy-light:    #1B3461;        /* Card/surface navy */
+  --navy-border:   rgba(255,255,255,0.1);
+  --navy-border-soft: rgba(255,255,255,0.06);
+
+  --yellow:        #F5C518;        /* Primary yellow accent */
+  --yellow-hover:  #E6B800;        /* Darker on hover */
+  --yellow-pale:   #FDF6CC;        /* Pale yellow tint backgrounds */
+  --yellow-glow:   rgba(245,197,24,0.25);
+  --yellow-bg:     rgba(245,197,24,0.08);
+
+  --white:         #FFFFFF;
+  --off-white:     #F8F9FA;        /* Page canvas (NOT pure white — very slightly warm) */
+  --light-grey:    #EEF0F4;        /* Dividers, card backgrounds in light mode */
+  --mid-grey:      #9AA5B4;        /* Muted text, metadata */
+  --dark-grey:     #2D3748;        /* Body text on white */
+
+  --saffron:       #E8590C;        /* Reserved CTA accent only */
+  --field-green:   #1A7F4E;        /* Success / green accent */
+
+  /* Tricolor: footer ONLY */
+  --tri-saffron:   #FF9933;
+  --tri-white:     #FFFFFF;
+  --tri-green:     #138808;
+
+  /* ── TYPOGRAPHY ─────────────────────────────────────────────────── */
+  --font-display:  'Mileast', 'Transcity', Georgia, serif;          /* Headlines, stamps, titles */
+  --font-sans:     'Mileast', 'Plus Jakarta Sans', -apple-system, sans-serif; /* Whole site everywhere */
+  --font-mono:     'JetBrains Mono', 'SF Mono', 'Courier New', monospace;
+  --font-deva:     'Noto Serif Devanagari', serif;
+
+  /* ── FLUID TYPE SCALE ───────────────────────────────────────────── */
+  --text-hero:       clamp(3rem, 9vw + 0.5rem, 7.5rem);
+  --text-hero-sm:    clamp(2rem, 5vw + 0.5rem, 4.5rem);
+  --text-h1:         clamp(2.25rem, 4.5vw + 0.5rem, 4.5rem);
+  --text-h2:         clamp(1.75rem, 3vw + 0.25rem, 3rem);
+  --text-h3:         clamp(1.25rem, 1.8vw + 0.2rem, 2rem);
+  --text-h4:         clamp(1.05rem, 1.2vw + 0.1rem, 1.4rem);
+  --text-body-lg:    clamp(1.05rem, 1vw + 0.4rem, 1.25rem);
+  --text-body:       1rem;
+  --text-sm:         0.875rem;
+  --text-mono:       0.8125rem;
+  --text-micro:      0.6875rem;
+
+  /* ── TRANSCITY WEIGHT MODULATION (via font-variation-settings or letter-spacing) */
+  --tc-tight:        -0.04em;   /* Tight headlines */
+  --tc-normal:       -0.01em;   /* Normal display */
+  --tc-wide:          0.06em;   /* Wide stamps / labels */
+  --tc-ultrawide:     0.14em;   /* Section markers */
+
+  /* ── SPACING ────────────────────────────────────────────────────── */
+  --s-2xs:   4px;
+  --s-xs:    8px;
+  --s-sm:    12px;
+  --s-md:    16px;
+  --s-lg:    24px;
+  --s-xl:    32px;
+  --s-2xl:   48px;
+  --s-3xl:   64px;
+  --s-4xl:   96px;
+  --s-5xl:   128px;
+  --s-6xl:   160px;
+
+  /* ── LAYOUT ─────────────────────────────────────────────────────── */
+  --max-w:          1440px;
+  --pad-x:          clamp(1.25rem, 4.5vw, 4rem);
+  --header-h:       72px;
+  --radius-sm:      2px;
+  --radius-md:      6px;
+
+  /* ── MOTION ─────────────────────────────────────────────────────── */
+  --ease-expo:      cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-out:       cubic-bezier(0.25, 1, 0.5, 1);
+  --dur-fast:       180ms;
+  --dur-base:       350ms;
+  --dur-slow:       650ms;
+
+  /* ── Z-INDEX ─────────────────────────────────────────────────────── */
+  --z-grain:    999;
+  --z-cursor:   990;
+  --z-header:   800;
+  --z-nav:      850;
+  --z-modal:    900;
+  --z-content:  10;
+  --z-bg:       0;
+
+  /* ── SHADOWS ─────────────────────────────────────────────────────── */
+  --shadow-sm:  0 1px 3px rgba(10,22,40,0.12), 0 1px 2px rgba(10,22,40,0.08);
+  --shadow-md:  0 4px 16px rgba(10,22,40,0.14), 0 2px 4px rgba(10,22,40,0.08);
+  --shadow-lg:  0 10px 40px rgba(10,22,40,0.18), 0 4px 8px rgba(10,22,40,0.1);
+  --shadow-yellow: 0 0 30px rgba(245,197,24,0.3);
+}

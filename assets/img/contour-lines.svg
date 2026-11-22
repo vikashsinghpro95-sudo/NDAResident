@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 900" width="100%" height="100%" fill="none" preserveAspectRatio="xMidYMid slice" opacity="0.14">
+  <defs>
+    <pattern id="grid-pattern" width="80" height="80" patternUnits="userSpaceOnUse">
+      <path d="M 80 0 L 0 0 0 80" fill="none" stroke="#B8892B" stroke-width="0.5" stroke-opacity="0.25" stroke-dasharray="2 4"/>
+      <circle cx="80" cy="0" r="1.5" fill="#B8892B" fill-opacity="0.4"/>
+      <circle cx="0" cy="80" r="1.5" fill="#B8892B" fill-opacity="0.4"/>
+    </pattern>
+  </defs>
+
+  <!-- Coordinate Grid Overlay -->
+  <rect width="100%" height="100%" fill="url(#grid-pattern)" />
+
+  <!-- Topographic Elevation Contours -->
+  <g stroke="#B8892B" stroke-width="0.85" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Contour 1 (Base 620m) -->
+    <path d="M-100,240 C180,210 320,310 540,260 C780,205 920,290 1140,230 C1300,180 1420,240 1560,200" />
+    
+    <!-- Contour 2 (640m) -->
+    <path d="M-100,310 C160,270 340,380 580,320 C820,250 960,360 1180,290 C1340,240 1460,310 1560,270" stroke-width="1.2" stroke-opacity="0.8" />
+    <text x="620" y="316" fill="#B8892B" font-family="'JetBrains Mono', monospace" font-size="9" letter-spacing="1.5" fill-opacity="0.6">CONTOUR 640m — PUNE RIDGE</text>
+
+    <!-- Contour 3 (660m) -->
+    <path d="M-100,390 C140,340 360,450 620,380 C860,310 1000,430 1220,350 C1380,290 1480,370 1560,340" />
+
+    <!-- Contour 4 (680m - Index) -->
+    <path d="M-100,470 C120,410 380,520 660,440 C900,370 1040,500 1260,420 C1420,350 1500,430 1560,410" stroke-width="1.4" stroke-opacity="0.9" />
+    <text x="1080" y="496" fill="#B8892B" font-family="'JetBrains Mono', monospace" font-size="9" letter-spacing="1.5" fill-opacity="0.7">INDEX 680m // SECTOR 18°26'N</text>
+
+    <!-- Contour 5 (700m) -->
+    <path d="M-100,560 C100,490 400,600 700,510 C940,430 1080,570 1300,490 C1440,420 1520,500 1560,480" />
+
+    <!-- Contour 6 (720m - Index Peak) -->
+    <path d="M-100,650 C80,570 420,680 740,580 C980,490 1120,640 1340,560 C1460,490 1540,570 1560,550" stroke-width="1.5" stroke-opacity="0.9" />
+    <text x="380" y="675" fill="#B8892B" font-family="'JetBrains Mono', monospace" font-size="9" letter-spacing="2" fill-opacity="0.75">RIDGE CREST 720m [NARHE ELEVATION]</text>
+
+    <!-- Contour 7 (740m) -->
+    <path d="M-100,740 C60,650 440,760 780,650 C1020,550 1160,710 1380,630 C1480,560 1550,640 1560,620" />
+    
+    <!-- Hairline detail secondary rings -->
+    <path d="M220,120 C320,80 440,110 520,160 C580,200 560,260 480,290 C400,310 280,270 240,210 C200,160 210,130 220,120 Z" stroke-dasharray="3 3" opacity="0.4" />
+    <path d="M960,110 C1080,70 1200,90 1280,150 C1340,200 1310,270 1230,300 C1140,320 1020,280 970,210 C930,160 940,120 960,110 Z" stroke-dasharray="3 3" opacity="0.4" />
+  </g>
+
+  <!-- Technical Sector Crosshairs & Survey Stamp Marks -->
+  <g stroke="#B8892B" stroke-width="1" opacity="0.65">
+    <!-- Crosshair Top Right -->
+    <line x1="1340" y1="90" x2="1360" y2="90" />
+    <line x1="1350" y1="80" x2="1350" y2="100" />
+    <text x="1310" y="75" fill="#B8892B" font-family="'JetBrains Mono', monospace" font-size="8" letter-spacing="1">COORD REF [09-B]</text>
+
+    <!-- Crosshair Bottom Left -->
+    <line x1="80" y1="820" x2="100" y2="820" />
+    <line x1="90" y1="810" x2="90" y2="830" />
+    <text x="105" y="823" fill="#B8892B" font-family="'JetBrains Mono', monospace" font-size="8" letter-spacing="1">18°26'55"N 73°49'32"E</text>
+
+    <!-- Centre Scale Rule -->
+    <line x1="670" y1="840" x2="770" y2="840" stroke-width="1.5" />
+    <line x1="670" y1="835" x2="670" y2="845" />
+    <line x1="720" y1="837" x2="720" y2="843" />
+    <line x1="770" y1="835" x2="770" y2="845" />
+    <text x="688" y="855" fill="#B8892B" font-family="'JetBrains Mono', monospace" font-size="8" letter-spacing="1.5">SCALE 1:25000</text>
+  </g>
+</svg>

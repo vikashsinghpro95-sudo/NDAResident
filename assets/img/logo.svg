@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 72" width="280" height="72" fill="none">
+  <!-- Regimental Shield & Crest Outline -->
+  <g transform="translate(4, 6)">
+    <!-- Outer Shield Border -->
+    <path d="M30 4 L54 14 V34 C54 48 30 58 30 58 C30 58 6 48 6 34 V14 Z" stroke="#D6A52B" stroke-width="1.75" fill="#0A1D36" />
+    <path d="M30 8 L50 16 V33 C50 44 30 53 30 53 C30 53 10 44 10 33 V16 Z" stroke="#D6A52B" stroke-width="0.75" stroke-opacity="0.6" fill="none" />
+    
+    <!-- Crossed Cavalry Sabres Silhouette -->
+    <path d="M18 20 C22 25 32 35 42 42" stroke="#D6A52B" stroke-width="1.25" stroke-linecap="round" />
+    <path d="M42 20 C38 25 28 35 18 42" stroke="#D6A52B" stroke-width="1.25" stroke-linecap="round" />
+    <circle cx="30" cy="30" r="2.5" fill="#D6A52B" />
+    
+    <!-- Star at Crest Top -->
+    <polygon points="30,12 31.5,15.5 35,16 32.5,18.5 33,22 30,20 27,22 27.5,18.5 25,16 28.5,15.5" fill="#D6A52B" />
+  </g>
+
+  <!-- Typography Hierarchy -->
+  <g fill="#FFFFFF" transform="translate(72, 14)">
+    <!-- Small Cap Pre-Title -->
+    <text x="0" y="8" font-family="'Cinzel', 'Playfair Display', Georgia, serif" font-size="8.5" font-weight="600" letter-spacing="1.8" fill="#D6A52B">
+      EX-RISALDAR MAJOR
+    </text>
+    <!-- Main Academy Title -->
+    <text x="0" y="24" font-family="'Cinzel', 'Playfair Display', Georgia, serif" font-size="14.5" font-weight="700" letter-spacing="1.2" fill="#FFFFFF">
+      M. K. PAWAR
+    </text>
+    <!-- Academy Designation -->
+    <text x="0" y="38" font-family="'Montserrat', -apple-system, sans-serif" font-size="9" font-weight="600" letter-spacing="2.4" fill="#E2E8F0">
+      NDA &amp; DEFENCE ACADEMY
+    </text>
+    <!-- Motto / Tagline -->
+    <text x="0" y="49" font-family="'Montserrat', -apple-system, sans-serif" font-size="6.5" font-weight="500" letter-spacing="3.2" fill="#D6A52B" fill-opacity="0.9">
+      PREPARE • TRAIN • LEAD
+    </text>
+  </g>
+</svg>
