@@ -1,0 +1,2024 @@
+################################################################################
+#                                                                              #
+#       M. K. PAWAR NDA & DEFENCE ACADEMY — OFFICIAL WEBSITE CONTENT DUMP       #
+#                                                                              #
+#  Location: Pune / Lonavala Hills, Maharashtra, India                         #
+#  Founder & Director: Prof. Ravindra Pawar (Director, Kota Rankers Point)      #
+#  Lineage: 3 Generations of Military & Academic Leadership                    #
+#                                                                              #
+################################################################################
+
+TABLE OF CONTENTS / SITEMAP:
+
+01. index.html                : Home Page (Regimental Command, Hero, Lineage, Cadet Cadence, Programmes, Campus, Admissions)
+02. about.html                : The Academy / About Us (Three Generations Lineage, BEG, Skinner's Horse, Kota Leadership, Vision & Mission, Governing Council)
+03. courses.html              : Accredited Programmes (NDA Foundation, SSB Interview, CDS, AFCAT, IMU-CET, JEE TES, MHT-CET, Fees & Curriculum)
+04. nda-ssb.html              : NDA & SSB Training Wing (Written Exam Strategy, 5-Day SSB Interview Board Cycle, GTO Obstacle Grounds, Psychology & Personal Interview)
+05. campus-training.html      : Campus & Regimental Life (Lonavala/Pune Hills Facility, Drill Square, Obstacle Course, Mess Nutrition, Dormitories, Daily Routine)
+06. achievements-gallery.html : Cadet Gallery & Hall of Fame (Regimental Archives, NDA Passing Out Parades, SSB Recommendations, Sports, Life at Academy)
+07. admissions-contact.html   : Admissions & Regimental Enquiry (Selection Process, Medical Standards, Fee Structure, Registration Form, Campus Location)
+08. privacy-policy.html       : Legal: Privacy Policy & Data Protection
+09. terms.html                : Legal: Terms & Conditions of Enrollment
+10. thank-you.html            : Confirmation: Application Received & Verification Next Steps
+11. 404.html                  : System Alert: 404 Route Not Found
+
+################################################################################
+
+
+================================================================================
+PAGE FILE: index.html
+DESCRIPTION: Home Page (Regimental Command, Hero, Lineage, Cadet Cadence, Programmes, Campus, Admissions)
+PAGE TITLE: Ex-Risaldar Major M. K. Pawar NDA & Defence Academy | Pune
+META DESCRIPTION: Pune's premier residential defence academy. Rigorous NDA written preparation, officer-level SSB guidance, and physical conditioning. Prepare • Train • Lead.
+================================================================================
+
+[HEADER & NAVIGATION]
+[Action/Link: EX-RISALDAR MAJOR
+M. K. PAWAR
+NDA & DEFENCE ACADEMY -> index.html]
+[Action/Link: Home -> index.html]
+[Action/Link: The Academy -> about.html]
+[Action/Link: Programmes -> courses.html]
+[Action/Link: NDA & SSB -> nda-ssb.html]
+[Action/Link: Campus Life -> campus-training.html]
+[Action/Link: Gallery -> achievements-gallery.html]
+BATCH 2026
+[Action/Link: Admissions -> admissions-contact.html]
+
+
+--- [SECTION: #hero (hero)] ---
+FILE 00: PREPARE • TRAIN • LEAD
+05:30 REVEILLE
+|
+05:30:00 IST
+ADMISSIONS OPEN 2026-27
+[ FILE 00 // NARHE, PUNE ]
+
+======================================================================
+[HEADING 1] BUILD YOUR FUTUREIN THE ARMED FORCES.
+======================================================================
+A premier residential defence academy in Pune, founded on three generations of military honour and academic science. Rigorous NDA written coaching, officer-level SSB guidance, and physical conditioning.
+
+[Action/Link: Explore Programmes -> courses.html]
+[Action/Link: Speak to Admissions -> tel:8669099430]
+17+
+YRS KOTA SCIENCE
+•
+61ST CAVALRY
+LINEAGE
+•
+05:30
+REVEILLE DISCIPLINE
+OFFICER CADET BATCH 2026-27
+INSPECT DOSSIER
+
+--- [SECTION: #story (story-section)] ---
+FILE 01 — THE REGIMENTAL LINEAGE
+
+
+--------------------------------------------------
+[HEADING 2] Three Generations.One Calling.
+--------------------------------------------------
+Discipline is not taught from a textbook. It is inherited through service, sacrifice, and character.
+
+[Action/Button: GEN 01
+The Great War Sapper (BEG)]
+[Action/Button: GEN 02
+61st Cavalry (Ex-Risaldar Major)]
+[Action/Button: GEN 03
+The Classroom (Kota Pedagogy)]
+FILE 01-A // 1914–1918
+* Illustrative archival image representing BEG military engineering traditions.
+
+CHAPTER I // THE FIRST GENERATION
+
+>>> [HEADING 3] The Great War Sapper & Gallant Service
+The Pawar family's military lineage began on the battlefields of the First World War era. Serving as a distinguished soldier with the Bombay Engineering Group (BEG), his gallantry was officially recognized with an award of 85 acres of land in Sangli district by the British Indian Government.
+
+REGIMENTAL SERVICE RECORD:
+BOMBAY ENGINEERING GROUP (BEG) • 85-ACRE GALLANTRY CITATION
+[Action/Button: Next: Ex-Risaldar Major M. K. Pawar]
+FILE 01-B // CAVALRY
+* Living tribute representing 61st Cavalry equestrian mentorship.
+
+CHAPTER II // THE SECOND GENERATION
+
+>>> [HEADING 3] Ex-Risaldar Major M. K. Pawar
+Recruited at Jaipur into the prestigious 61st Cavalry (Armoured Corps) — the last operational horse-mounted cavalry regiment in the world. Ex-Risaldar Major M. K. Pawar served with supreme honour and was renowned as a master horse riding instructor and equestrian mentor. This academy stands as a living tribute to his ethos.
+
+REGIMENTAL SERVICE RECORD:
+61ST CAVALRY (ARMOURED CORPS) • RECRUITED: JAIPUR • MASTER INSTRUCTOR
+
+  REGIMENTAL QUOTE: ""A Soldier. A Father. A Blessing.""
+
+[Action/Button: ← Previous]
+[Action/Button: Next: Prof. Ravindra Pawar]
+FILE 01-C // ACADEMICS
+* Kota academic coaching and diagnostic assessment environment.
+
+CHAPTER III // THE THIRD GENERATION
+
+>>> [HEADING 3] Prof. Ravindra Pawar & The Academy
+With 17 years of premier academic leadership — directing Kota Rankers Point and guiding students across Rajasthan, MP, Chhattisgarh, and Maharashtra — Prof. Ravindra Pawar bridges intense competitive science education with the regimental military discipline of his father and grandfather.
+
+ACADEMIC & LEADERSHIP RECORD:
+DIRECTOR: KOTA RANKERS POINT, PUNE • 17 YEARS STEM & DEFENCE COACHING
+"आपका बच्चा मेरी ज़िम्मेदारी है।"
+
+[Action/Button: ← Previous]
+[Action/Button: Read Director's Pledge]
+
+--- [SECTION: #day-timeline (timeline-section)] ---
+FILE 02 — CADET CADENCE // 24-HOUR REGIMENTAL ROUTINE
+
+
+--------------------------------------------------
+[HEADING 2] A Day at the Academy.Precision by the Minute.
+--------------------------------------------------
+From 05:00 First Bugle to 22:00 Lights Out — every hour is engineered for peak physical stamina, disciplined character, and Kota-grade academic mastery.
+
+CADENCE RADAR
+LIVE SYNC
+05:00
+INDIAN STANDARD TIME (IST)
+CURRENT FORMATION
+First Bugle (Stand-To & Wash)
+MUSTER & ROLL CALL
+DAY CYCLE PROGRESS
+0%
+05:00
+12:00
+18:00
+22:00
+TO CONFIRM
+Exact timings subject to seasonal daylight orders & battalion training directives.
+
+[Action/Button: 05:00 Dawn]
+[Action/Button: 08:30 Classes]
+[Action/Button: 16:45 Drill]
+[Action/Button: 22:00 Taps]
+05:00 IST
+BARRACKS MUSTER
+TO CONFIRM
+
+>>> [HEADING 3] First Bugle (Stand-To & Wash)
+Cadets muster in living quarters, organize gear, conduct kit turnout inspection, and prepare for the morning training block.
+
+LOCATION: Living Quarters
+OBJECTIVE: Regimental Turnout
+05:30 IST
+REVEILLE
+TO CONFIRM
+
+>>> [HEADING 3] Reveille & Ground Muster
+Fall in at the main parade ground for battalion roll call, national flag salutation, dawn fitness briefing, and collective warm-up.
+
+LOCATION: Parade Grounds
+OBJECTIVE: Battalion Accountability
+06:00 – 07:15 IST
+PHYSICAL TRAINING
+TO CONFIRM
+
+>>> [HEADING 3] Physical Training & Cross-Country
+Calisthenics, core strengthening, 5 km cross-country conditioning, interval sprint drills, and military obstacle agility course.
+
+LOCATION: Cross-Country Track
+OBJECTIVE: Cardiovascular Endurance
+07:30 – 08:15 IST
+MESS RATION
+TO CONFIRM
+
+>>> [HEADING 3] Cadet Mess Breakfast
+Scientifically portioned high-protein breakfast: eggs or sprouted legumes, dairy milk, almonds & dates, multi-grain porridge, and complete hydration balance.
+
+LOCATION: Cadet Dining Hall
+OBJECTIVE: Cellular Recovery
+08:30 – 13:00 IST
+ACADEMIC BLOCK I
+TO CONFIRM
+
+>>> [HEADING 3] Academic Block 1 (Maths & Science)
+Intensive classroom instruction by senior Kota faculty. In-depth concept derivation, NDA & JEE-aligned speed mathematics, and physical sciences problem solving.
+
+LOCATION: Lecture Complex A
+OBJECTIVE: UPSC NDA Paper I Mastery
+13:15 – 14:00 IST
+REGIMENTAL DIET
+TO CONFIRM
+
+>>> [HEADING 3] Cadet Lunch & Regimental Rest
+Nutritious, balanced mid-day warm meal followed by a structured 45-minute silent cognitive recovery period before afternoon lectures.
+
+LOCATION: Mess & Quarters
+OBJECTIVE: Mind-Body Reset
+14:15 – 16:30 IST
+ACADEMIC BLOCK II
+TO CONFIRM
+
+>>> [HEADING 3] Academic Block 2 (GAT, English & History)
+UPSC General Ability Test (GAT) curriculum: advanced English comprehension, modern Indian military history, world geography, and strategic defence affairs analysis.
+
+LOCATION: Lecture Complex B
+OBJECTIVE: UPSC NDA Paper II Command
+16:45 – 18:00 IST
+DRILL & GTO
+TO CONFIRM
+
+>>> [HEADING 3] Obstacle Course / Sports / Drill
+SSB Ground Task Officer (GTO) obstacle simulations, vertical rope climbing, team sports (basketball & volleyball), and squad ceremonial drill bearing.
+
+LOCATION: Obstacle Ground
+OBJECTIVE: 15 Officer Like Qualities (OLQs)
+18:30 – 20:30 IST
+SELF-STUDY & DPP
+TO CONFIRM
+
+>>> [HEADING 3] Supervised Self-Study & DPP
+Mandatory silent study session: Daily Practice Problem (DPP) solving, individual doubt clearing with on-duty faculty, and formula revisions.
+
+LOCATION: Central Study Hall
+OBJECTIVE: Concept Retention & Practice
+20:45 – 21:30 IST
+DINNER & DEBRIEF
+TO CONFIRM
+
+>>> [HEADING 3] Cadet Dinner & News Debrief
+Wholesome dinner accompanied by a structured 15-minute national security briefing, geopolitical discussion, and daily squad debrief.
+
+LOCATION: Cadet Dining Hall
+OBJECTIVE: Officer General Awareness
+21:45 IST
+FINAL INSPECTION
+TO CONFIRM
+
+>>> [HEADING 3] Roll Call & Inspection
+Final muster in living barracks. Turnout verification, personal gear security, study kit layout, and orders of the day for dawn formation.
+
+LOCATION: Living Quarters
+OBJECTIVE: Night Accountability
+22:00 IST
+LIGHTS OUT
+TO CONFIRM
+
+>>> [HEADING 3] Lights Out
+Absolute silence in barracks. Uninterrupted physiological recovery, sleep hygiene, muscle tissue repair, and mental memory consolidation.
+
+LOCATION: Living Quarters
+OBJECTIVE: Complete Physiological Rest
+
+--- [SECTION: #programmes (section--light)] ---
+FILE 03 — SEVEN ACCREDITED PATHWAYS
+
+
+--------------------------------------------------
+[HEADING 2] Preparation for EveryCommission Route.
+--------------------------------------------------
+From 10+2 NDA Foundation to post-graduate CDS/AFCAT entries. Tap any dossier tile to view syllabus and structure.
+
+FILE 01-A // FLAGSHIP
+10+2 INTEGRATED
+
+>>> [HEADING 3] NDA Foundation & Written Batch
+Target: Class 11, 12 & 12th Passed Cadets • 1-Year / 2-Year Residential Integrated
+
++ Tap to expand syllabus breakdown
+
+  • [SUBHEADING] CORE EXAM CURRICULUM:
+
+  * Mathematics: 300 Marks (Kota Short-Trick Methodologies)
+  * General Ability Test (GAT): 600 Marks (English + GS + Current Affairs)
+  * Daily 05:30 PT Conditioning & Obstacle Course
+  * Weekly SSB Psychological Battery Guidance
+
+[Action/Link: View Full NDA Blueprint -> nda-ssb.html]
+FILE 01-B
+5-DAY TESTING
+
+>>> [HEADING 3] SSB Interview Guidance
+For NDA, CDS, AFCAT & Direct Entry call-letter holders.
+
++ Tap to expand
+
+  • [SUBHEADING] TESTING BATTERIES:
+
+  * Screening: OIR + PPDT Narration
+  * Psychology: TAT, WAT, SRT & Self-Description
+  * GTO Ground: PGT, HGT, Command Task & FGT
+  * Board Interview Mock Panels
+
+[Action/Link: SSB Schedule -> nda-ssb.html]
+FILE 02-A
+
+>>> [HEADING 3] CDS (Combined Defence Services)
+Target: Graduates & Final Year College Students • IMA, OTA, INA, AFA
+
+Advanced curriculum covering Elementary Mathematics, English Comprehension, and UPSC General Knowledge with SSB orientation.
+
+[Action/Link: Course Dossier -> courses.html#cds]
+FILE 02-B
+
+>>> [HEADING 3] AFCAT (Air Force Entry)
+Indian Air Force Flying & Ground Duty Branches • 6-Month Intensive
+
+Numerical Ability, Verbal Reasoning, General Awareness, and Military Aptitude with EKT Engineering test modules.
+
+[Action/Link: Course Dossier -> courses.html#afcat]
+FILE 03-A
+
+>>> [HEADING 3] IMU-CET & Merchant Navy
+Class 12th PCM • Indian Maritime University entrance + sponsorship prep.
+
+FILE 03-B
+
+>>> [HEADING 3] JEE Main Integrated (TES)
+Kota science pedagogy for engineering & direct 10+2 Army TES technical entry.
+
+FILE 03-C
+
+>>> [HEADING 3] MHT-CET Engineering
+Maharashtra State Board speed problem-solving & accuracy testing series.
+
+[Action/Link: View All Course Blueprints & Comparison Table -> courses.html]
+
+--- [SECTION: #pledge (pledge-section)] ---
+FILE 04 — THE DIRECTOR'S PLEDGE
+
+
+  REGIMENTAL QUOTE: "आपका
+बच्चा
+मेरी
+ज़िम्मेदारी
+है।"
+
+"Aapka Baccha Meri Zimmedari Hai."
+
+Prof. Ravindra Pawar
+Founder & Academic Director • M. K. Pawar NDA Academy
+JAI HIND!
+
+--- [SECTION: #finder (finder-section)] ---
+FILE 05 — CONVERSATIONAL PATHWAY FINDER
+
+
+--------------------------------------------------
+[HEADING 2] Find Your OptimalTraining Batch.
+--------------------------------------------------
+Answer 3 rapid questions to determine the exact batch matching your age, qualification, and defence commission goals.
+
+01 // Academic Year
+02 // Defence Wing
+03 // Timeline
+
+>>> [HEADING 3] What is your current academic stage?
+[Action/Button: Class 10 Student
+Preparing for early 2-year integrated residential foundation]
+[Action/Button: Class 11 Science (PCM)
+Building strong UPSC NDA & 10+2 TES foundation]
+[Action/Button: Class 12 / 12th Appearing
+Immediate focus on upcoming NDA written examination]
+[Action/Button: College Graduate / Final Year
+Aiming for CDS (IMA/OTA/AFA/INA) or AFCAT entry]
+
+>>> [HEADING 3] Which Armed Forces arm is your primary goal?
+[Action/Button: National Defence Academy (Tri-Services)
+Army, Navy, or Air Force via UPSC NDA entry]
+[Action/Button: Indian Air Force (AFCAT)
+Flying Branch or Ground Duty Technical/Non-Tech]
+[Action/Button: Maritime & Merchant Navy (IMU-CET)
+Commercial shipping deck cadet or Indian Navy]
+[Action/Button: Army Technical Entry (TES) & JEE
+Direct SSB interview route via JEE Main cutoffs]
+[Action/Button: ← Back]
+
+>>> [HEADING 3] When is your target examination attempt?
+[Action/Button: Upcoming 2026 Examination
+Intensive test-series, speed techniques & SSB drill]
+[Action/Button: Target: 2027 Batches (1-Year)
+Full 1-year academic syllabus mastery + physical conditioning]
+[Action/Button: Target: 2028 Batches (2-Year Integrated)
+Comprehensive 11th + 12th + NDA written residential program]
+[Action/Button: ← Back]
+RECOMMENDED ACADEMY DOSSIER
+
+
+>>> [HEADING 3] NDA Foundation & Written Batch
+Comprehensive residential training program.
+
+Duration: 1 Year / 2 Year Residential Integrated
+
+[Action/Link: Enrol in This Batch -> admissions-contact.html]
+[Action/Button: Chat with Admissions]
+[Action/Button: Start Over]
+
+--- [SECTION: #section-7 (roadmap-section)] ---
+FILE 06 — THE CADET TRAJECTORY
+
+
+--------------------------------------------------
+[HEADING 2] Five Milestonesto the Stars.
+--------------------------------------------------
+A transparent map of the cadet's progress from classroom induction to national commission.
+
+01
+Muster & Foundation
+02
+Academic Mastery
+03
+UPSC Written Cleared
+04
+5-Day SSB Recommendation
+05
+President's Commission
+
+--- [SECTION: #section-8 (stats-band)] ---
+17+
+Years Academic Leadership
+7
+Defence Entry Pathways
+03
+Generations of Service
+05:30
+Reveille Daily Standard
+
+--- [SECTION: #enquiry (contact-section)] ---
+FILE 07 — ADMISSION DOSSIER
+
+
+--------------------------------------------------
+[HEADING 2] Enrol for theUpcoming Session.
+--------------------------------------------------
+Cadet seats in each residential batch are strictly limited to maintain small squad ratios for personalized mentoring, doubt clearance, and physical safety.
+
+Admissions Officer Hotline
+[Action/Link: +91 86690 99430 -> tel:8669099430]
+Campus Coordinates
+Narhe Campus, Pune, Maharashtra, India (18°26'55"N 73°49'32"E)
+[Action/Link: Instant WhatsApp Enquiry -> https://wa.me/918669099430?text=Jai%20Hind%20Sir%2C%20I%20would%20like%20to%20enquire%20about%20admission%20to%20the%20M.%20K.%20Pawar%20NDA%20%26%20Defence%20Academy%20residential%20program.]
+Statutory Selection Ethics: Admission into the Armed Forces is governed strictly by the Union Public Service Commission (UPSC), Services Selection Boards (SSBs), and Armed Forces medical boards. The Academy provides rigorous preparatory training, academic coaching, and physical conditioning.
+
+
+>>> [HEADING 3] Cadet Application File
+Submit candidate details. The admissions office will respond within 24 hours.
+
+Don't fill this out:
+
+Cadet / Student Full Name *
+Parent / Guardian Name *
+Active Mobile Number *
+Current Academic Level *
+Select Current Class
+Class 10 (Preparing early)
+Class 11 Science
+Class 12 / Appearing
+12th Passed (Dropper / Target NDA)
+Graduated / College Final Year (CDS/AFCAT)
+Programme of Interest *
+Select Programme
+NDA Written & SSB Foundation (1 / 2 Year)
+SSB Personality & Interview Guidance (14-Day)
+CDS (Combined Defence Services)
+AFCAT (Air Force Common Admission Test)
+IMU-CET & Merchant Navy Guidance
+JEE Main & Army 10+2 TES Integrated
+MHT-CET & State Engineering Batch
+I confirm the above details are authentic and consent to receiving official admission counselling and prospectus communication from the Academy.
+[Action/Button: Submit Cadet File — Jai Hind!]
+
+==================================================
+[GLOBAL FOOTER]
+==================================================
+Prof. Ravindra Pawar
+Founder & Academic Director • M. K. Pawar NDA Academy
+JAI HIND!
+
+
+
+################################################################################
+
+
+================================================================================
+PAGE FILE: about.html
+DESCRIPTION: The Academy / About Us (Three Generations Lineage, BEG, Skinner's Horse, Kota Leadership, Vision & Mission, Governing Council)
+PAGE TITLE: The Academy & Three Generations | Ex-Risaldar Major M. K. Pawar NDA Academy Pune
+META DESCRIPTION: Discover the three generations of military honour and academic science behind M. K. Pawar NDA Academy. Founded in loving memory of Ex-Risaldar Major M. K. Pawar (61st Cavalry).
+================================================================================
+
+[HEADER & NAVIGATION]
+[Action/Link: EX-RISALDAR MAJOR
+M. K. PAWAR
+NDA & DEFENCE ACADEMY -> index.html]
+[Action/Link: Home -> index.html]
+[Action/Link: The Academy -> about.html]
+[Action/Link: Programmes -> courses.html]
+[Action/Link: NDA & SSB -> nda-ssb.html]
+[Action/Link: Campus Life -> campus-training.html]
+[Action/Link: Gallery -> achievements-gallery.html]
+BATCH 2026
+[Action/Link: Admissions -> admissions-contact.html]
+
+
+--- [SECTION: #section-1 (page-hero)] ---
+FILE 01 // DOSSIER
+EST. 2026 • NARHE, PUNE
+
+======================================================================
+[HEADING 1] THREE GENERATIONS.ONE REGIMENTAL CALLING.
+======================================================================
+The story of an institution built not on commercial ambitions, but on the living heritage of military discipline, ancestral sacrifice, and 17 years of premier academic leadership.
+
+[Action/Link: Home -> index.html]
+/
+The Academy
+
+--- [SECTION: #section-2 (content-section section--light)] ---
+GENERATION I // 1914 – 1918 ERA
+
+
+--------------------------------------------------
+[HEADING 2] The Great War Sapper & 85-Acre Gallantry Grant
+--------------------------------------------------
+The roots of the Pawar family’s devotion to the uniform began during the First World War. Serving as a combat engineer with the distinguished Bombay Engineering Group (BEG) — the renowned "Bombay Sappers" of the British Indian Army — the founder’s grandfather stood on frontline theatres.
+
+For his gallantry in action, he was formally awarded an official British Indian military grant of 85 acres of land in Sangli district, Maharashtra. This historic land grant was not merely property; it was a permanent regimental symbol of courage under fire that instilled discipline as the core pillar of the Pawar family.
+
+HISTORIC RECORD: BEG SAPPERS • 85-ACRE GALLANTRY CITATION • SANGLI DISTRICT
+
+ARCHIVAL CITATION
+* Illustrative archival image representing BEG military engineering traditions.
+
+
+--- [SECTION: #section-3 (content-section section--dark)] ---
+61ST CAVALRY
+* Illustrative image depicting ceremonial cavalry saddle, riding boots, and military headgear.
+
+GENERATION II // MEMORIAL DEDICATION
+
+
+--------------------------------------------------
+[HEADING 2] Ex-Risaldar MajorM. K. Pawar
+--------------------------------------------------
+"A Soldier. A Father. A Blessing."
+
+61ST CAVALRY (ARMOURED CORPS) • RECRUITED AT JAIPUR
+
+Recruited at Jaipur into the legendary 61st Cavalry (Armoured Corps) — the world’s last operational horse-mounted cavalry regiment — Ex-Risaldar Major M. K. Pawar represented the pinnacle of regimental dignity.
+
+As a master horse riding instructor and equestrian mentor, his bearing, punctuality, and unwavering adherence to truth shaped the upbringing of his son, Prof. Ravindra Pawar. This academy was conceived not as a business venture, but as a living military memorial to honour his life and pass his soldier’s spirit to future Indian Army officers.
+
+Administrative Note: The Academy is named in solemn tribute to Ex-Risaldar Major M. K. Pawar. He is honoured as the inspirational patron and moral compass of the institution.
+
+
+--- [SECTION: #section-4 (content-section section--light)] ---
+GENERATION III // ACADEMIC LEADERSHIP
+
+
+--------------------------------------------------
+[HEADING 2] Prof. Ravindra Pawar& Kota Pedagogy
+--------------------------------------------------
+While military values build character, competitive examinations require uncompromising academic science. Prof. Ravindra Pawar brings 17 years of elite teaching and administrative leadership to Pune's defence aspirants.
+
+As the Director of Kota Rankers Point, Prof. Pawar spent nearly two decades mastering competitive entrance examination structures across Kota (Rajasthan), Madhya Pradesh, Chhattisgarh, and Maharashtra. His methodology transforms standard school students into analytical, high-speed problem solvers capable of clearing the UPSC NDA written paper with ease.
+
+"आपका बच्चा मेरी ज़िम्मेदारी है।"
+
+PROF. RAVINDRA PAWAR • FOUNDER & ACADEMIC DIRECTOR
+
+KOTA PEDAGOGY
+* Illustrative documentary photography of structured classroom instruction.
+
+
+--- [SECTION: #section-5 (section--dark)] ---
+THE FOUR REGIMENTAL PILLARS
+
+
+--------------------------------------------------
+[HEADING 2] Values Forged on the Field.
+--------------------------------------------------
+We do not compromise on these four principles. They govern every hour of cadet life from 05:30 Reveille to 22:00 Lights Out.
+
+अनुशासन
+
+>>> [HEADING 3] Discipline
+Military precision in daily routine, study timetables, uniform turnout, and personal physical regimen.
+
+सत्यनिष्ठा
+
+>>> [HEADING 3] Honesty
+Absolute integrity in competitive exams, mock testing honesty, peer brotherhood, and personal accountability.
+
+साहस
+
+>>> [HEADING 3] Courage
+Mental resilience to conquer grueling mathematics derivations and physical confidence to scale 10-foot obstacles.
+
+राष्ट्रभक्ति
+
+>>> [HEADING 3] Rashtra Bhakti
+Unwavering devotion to the Republic of India. The highest aspiration: earning the President's Commission in the Armed Forces.
+
+
+--- [SECTION: #section-6 (stats-band)] ---
+
+--------------------------------------------------
+[HEADING 2] Experience the Academy Campus in Person
+--------------------------------------------------
+Meet Academic Director Prof. Ravindra Pawar at our Narhe campus. We conduct personal cadet orientation and academic diagnostic assessments for serious aspirants.
+
+[Action/Link: Schedule Campus Visit -> admissions-contact.html]
+[Action/Link: Speak on WhatsApp -> https://wa.me/918669099430?text=Jai%20Hind%20Sir%2C%20I%20would%20like%20to%20schedule%20a%20campus%20visit.]
+
+==================================================
+[GLOBAL FOOTER]
+==================================================
+EX-RISALDAR MAJOR
+M. K. PAWAR
+NDA & DEFENCE ACADEMY
+Pune’s premier residential defence academy founded in honour of Ex-Risaldar Major M. K. Pawar (61st Cavalry). Integrating 11th & 12th state/CBSE curriculum with intensive NDA written coaching and rigorous 5-day SSB interview preparation.
+
+BEG SAPPERS • 61ST CAVALRY LINEAGE
+18°26'55"N 73°49'32"E // NARHE HQ
+
+>>> [HEADING 3] Service Files
+
+  * 00 Home Base
+  * 01 Three Generations
+  * 02 Course Blueprints
+  * 03 NDA & 5-Day SSB
+  * 04 Campus Life & Routine
+  * 05 Records & Gallery
+  * 06 Admissions Checklist
+
+
+>>> [HEADING 3] Training Wings
+
+  * 2-Yr NDA Integrated (XI + XII)
+  * 1-Yr NDA Target Batch
+  * 6-Month Intensive Written + SSB
+  * 5-Day SSB Interview Prep
+  * CDS & AFCAT Officer Wing
+  * MHT-CET & JEE Foundation
+
+
+>>> [HEADING 3] Admissions HQ
+Direct Telephone:
+[Action/Link: +91 86690 99430 -> tel:8669099430]
+Academy Campus:
+Narhe Campus, Pune, Maharashtra 411041
+Reporting Hours:
+Mon – Sat: 08:30 – 19:00 IST
+[Action/Link: WhatsApp Admissions -> https://wa.me/918669099430?text=Jai%20Hind%20Sir%2C%20I%20would%20like%20to%20enquire%20about%20admission.]
+STATUTORY DISCLAIMER & ADMISSION ETHICS
+CODE: UPSC-SSB-DISCLAIMER-2026
+Ex-Risaldar Major M. K. Pawar NDA & Defence Academy is an independent educational training institution. Selection into the National Defence Academy (NDA), Indian Military Academy (IMA), Air Force Academy (AFA), Indian Naval Academy (INA), or Officer Training Academy (OTA) is decided solely by the Union Public Service Commission (UPSC), Services Selection Boards (SSBs), and competent Armed Forces Medical Boards. The Academy provides preparatory guidance, academic coaching, and physical conditioning; it does not guarantee selection.
+
+© 2026 Ex-Risaldar Major M. K. Pawar NDA & Defence Academy. All rights reserved.
+[Action/Link: Privacy Policy -> privacy-policy.html]
+•
+[Action/Link: Terms of Service -> terms.html]
+•
+Jai Hind!
+
+
+
+################################################################################
+
+
+================================================================================
+PAGE FILE: courses.html
+DESCRIPTION: Accredited Programmes (NDA Foundation, SSB Interview, CDS, AFCAT, IMU-CET, JEE TES, MHT-CET, Fees & Curriculum)
+PAGE TITLE: Programmes & Course Dossiers | Ex-Risaldar Major M. K. Pawar NDA Academy Pune
+META DESCRIPTION: Explore 7 accredited defence preparation pathways: NDA Written, 5-Day SSB Guidance, CDS, AFCAT, IMU-CET, and JEE Main integrated. Residential campus in Pune.
+================================================================================
+
+[HEADER & NAVIGATION]
+[Action/Link: EX-RISALDAR MAJOR
+M. K. PAWAR
+NDA & DEFENCE ACADEMY -> index.html]
+[Action/Link: Home -> index.html]
+[Action/Link: The Academy -> about.html]
+[Action/Link: Programmes -> courses.html]
+[Action/Link: NDA & SSB -> nda-ssb.html]
+[Action/Link: Campus Life -> campus-training.html]
+[Action/Link: Gallery -> achievements-gallery.html]
+BATCH 2026
+[Action/Link: Admissions -> admissions-contact.html]
+
+
+--- [SECTION: #section-1 (page-hero)] ---
+FILE 02 // CURRICULA
+SEVEN ACCREDITED PATHWAYS
+
+======================================================================
+[HEADING 1] INTEGRATED PROGRAMMES& TRAINING BLUEPRINTS.
+======================================================================
+Designed by Kota competitive science veterans and military instructors. Academic mastery meets regimental physical endurance.
+
+[Action/Link: Home -> index.html]
+/
+Programmes
+
+--- [SECTION: #section-2 (section--white)] ---
+FILE 01-A // FLAGSHIP BATCH
+
+--------------------------------------------------
+[HEADING 2] NDA Foundation & Written Integrated
+--------------------------------------------------
+TARGET: CLASS 11, 12 & 12TH PASSED
+DURATION: 1 YR / 2 YR RESIDENTIAL
+Our flagship residential program providing end-to-end coaching for the UPSC NDA examination alongside CBSE / State Board academics and daily 05:30 physical training.
+
+
+>>> [HEADING 3] Curriculum Core:
+
+  * Mathematics (300 Marks): High-yield problem shortcuts
+  * GAT (600 Marks): English, Physics, Chemistry, GS & Defence Current Affairs
+  * Daily Physical Conditioning & Obstacle Drills
+  * Weekly SSB Screening (OIR + PPDT) & Mock Boards
+
+[Action/Link: Apply for NDA Batch -> admissions-contact.html]
+[Action/Link: WhatsApp -> https://wa.me/918669099430?text=Jai%20Hind%20Sir%2C%20enquiring%20about%20NDA%20Foundation%20batch.]
+FILE 01-B // INTERVIEW CELL
+
+--------------------------------------------------
+[HEADING 2] SSB Personality & Interview Guidance
+--------------------------------------------------
+TARGET: CALL-LETTER HOLDERS
+DURATION: 14-DAY INTENSIVE
+Rigorous 5-day SSB simulation supervised by former defence mentors. In-depth psychological profiling, outdoor GTO obstacle ground drill, and personal interview mock boards.
+
+
+>>> [HEADING 3] Curriculum Core:
+
+  * Stage I Screening: OIR Speed Tests & PPDT Narration
+  * Stage II Psychology: TAT, WAT, SRT & Self-Description Dossier
+  * GTO Ground: PGT, HGT, Command Task & Snake Race
+  * Individual Mock Interviews with 1-on-1 Feedback
+
+[Action/Link: View SSB Testing Grid -> nda-ssb.html]
+[Action/Link: WhatsApp -> https://wa.me/918669099430?text=Jai%20Hind%20Sir%2C%20enquiring%20about%20SSB%20Interview%20guidance.]
+FILE 02-A // GRADUATE ENTRY
+
+--------------------------------------------------
+[HEADING 2] CDS (Combined Defence Services)
+--------------------------------------------------
+TARGET: GRADUATES & FINAL YEAR
+DURATION: 6 MONTHS / 1 YEAR
+Specialized coaching for UPSC CDS examination for admission into Indian Military Academy (IMA), Officers Training Academy (OTA), Naval Academy (INA), and Air Force Academy (AFA).
+
+
+>>> [HEADING 3] Curriculum Core:
+
+  * Elementary Mathematics (IMA/INA/AFA)
+  * English Comprehension & Advanced Grammar
+  * General Knowledge, Modern History, Polity & Current Events
+  * Post-written SSB Interview Transition
+
+[Action/Link: Apply for CDS Batch -> admissions-contact.html]
+[Action/Link: WhatsApp -> https://wa.me/918669099430?text=Jai%20Hind%20Sir%2C%20enquiring%20about%20CDS%20coaching.]
+FILE 02-B // AIR FORCE ENTRY
+
+--------------------------------------------------
+[HEADING 2] AFCAT (Air Force Common Admission)
+--------------------------------------------------
+TARGET: GRADUATES (FLYING & GROUND)
+DURATION: 6 MONTHS INTENSIVE
+Precision training for the Indian Air Force AFCAT entrance test. Covers General Awareness, Verbal Ability, Numerical Ability, Reasoning, and Engineering Knowledge Test (EKT).
+
+
+>>> [HEADING 3] Curriculum Core:
+
+  * Verbal Ability in English & Comprehension
+  * Numerical Ability & Mental Arithmetic Speed
+  * Reasoning & Military Aptitude Test (Spatial & Non-Verbal)
+  * General Awareness & Aviation Technology Basics
+
+[Action/Link: Apply for AFCAT -> admissions-contact.html]
+[Action/Link: WhatsApp -> https://wa.me/918669099430?text=Jai%20Hind%20Sir%2C%20enquiring%20about%20AFCAT%20batch.]
+FILE 03-A // MARITIME ENTRY
+
+--------------------------------------------------
+[HEADING 2] IMU-CET & Merchant Navy Guidance
+--------------------------------------------------
+TARGET: CLASS 12TH PCM
+DURATION: 1 YEAR / CRASH MODULE
+Rigorous preparation for Indian Maritime University Common Entrance Test for Deck Cadet (DNS/B.Sc Nautical Science) and Marine Engineering entries, including company sponsorship interviews.
+
+
+>>> [HEADING 3] Curriculum Core:
+
+  * Physics & Mathematics Competitive Speed Solving
+  * English Vocabulary & General Aptitude
+  * Shipping Company Sponsorship Interview Coaching
+  * Maritime Psychometric Assessment Training
+
+[Action/Link: Apply for IMU-CET -> admissions-contact.html]
+[Action/Link: WhatsApp -> https://wa.me/918669099430?text=Jai%20Hind%20Sir%2C%20enquiring%20about%20IMU-CET%20coaching.]
+FILE 03-B // TECHNICAL DUAL ROUTE
+
+--------------------------------------------------
+[HEADING 2] JEE Main Integrated (Army TES Route)
+--------------------------------------------------
+TARGET: CLASS 11 & 12 SCIENCE
+DURATION: 2-YEAR RESIDENTIAL
+Kota Rankers Point’s proven science coaching for JEE Main, providing cadets a dual-route to top engineering institutes as well as the Indian Army 10+2 Technical Entry Scheme (TES) direct SSB cutoffs.
+
+
+>>> [HEADING 3] Curriculum Core:
+
+  * Kota Pedagogy: Deep Concept Derivations
+  * Daily Practice Problem (DPP) Routine
+  * All-India Test Series & Real-Time Computer Based Tests
+  * Direct SSB Grooming for Army TES Call-Letters
+
+[Action/Link: Apply for JEE Integrated -> admissions-contact.html]
+[Action/Link: WhatsApp -> https://wa.me/918669099430?text=Jai%20Hind%20Sir%2C%20enquiring%20about%20JEE%20Main%20integrated.]
+FILE 03-C // STATE ENGINEERING
+
+--------------------------------------------------
+[HEADING 2] MHT-CET & State Engineering Batch
+--------------------------------------------------
+TARGET: MAHARASHTRA STATE / CBSE
+DURATION: 1 YR / 2 YR MODULE
+Specialized high-speed problem-solving module for Maharashtra engineering entrance, focused on mastering physics, chemistry, and mathematics speed algorithms and exam temperament.
+
+
+>>> [HEADING 3] Curriculum Core:
+
+  * Maharashtra State Board Textbook Line-by-Line Mastery
+  * Negative-Marking Avoidance Strategies & Speed Hacks
+  * Formula Rapid-Recall Drills & Weekly Timed Mocks
+  * Engineering College Counselling Support
+
+[Action/Link: Apply for MHT-CET -> admissions-contact.html]
+[Action/Link: WhatsApp -> https://wa.me/918669099430?text=Jai%20Hind%20Sir%2C%20enquiring%20about%20MHT-CET%20batch.]
+
+--- [SECTION: #section-3 (section--light)] ---
+PROGRAMME SPECIFICATION SHEET
+
+
+--------------------------------------------------
+[HEADING 2] Comparative Programme Index
+--------------------------------------------------
+A side-by-side comparison of entry requirements, batch duration, exams covered, and physical training integration.
+
+
+[TABLE DATA]
+Programme | Target Group | Duration | Target Exam | 05:30 PT Drill | SSB Guidance
+NDA Foundation | Class 11, 12, 12th Pass | 1 Yr / 2 Yr Residential | UPSC NDA & NA | Daily Mandatory | Full 5-Day Battery
+SSB Interview Guidance | Call Letter Holders | 14-Day Intensive | SSB 5-Day Testing | Obstacle Ground Drill | Full 5-Day Battery
+CDS Integrated | Graduates / Final Year | 6 Months / 1 Year | UPSC CDS (IMA/OTA) | Optional Conditioning | Full 5-Day Battery
+AFCAT Air Force | Graduates (Aviation/Tech) | 6 Months Intensive | IAF AFCAT & EKT | Optional Conditioning | AFSB Interview Prep
+IMU-CET Merchant Navy | Class 12th PCM | 1 Year / Crash | IMU-CET & DNS Sponsorship | Swimming & Stamina | Company Panel Mocks
+JEE Main (TES Entry) | Class 11 & 12 Science | 2-Year Residential | JEE Main & Army TES | Daily Mandatory | TES SSB Guidance
+MHT-CET Engineering | Class 12th State Board | 1 Year Module | MHT-CET Tech | Optional | N/A
+
+FEES: CONTACT ADMISSIONS OFFICE
+* Fee schedules vary based on residential boarding vs. day-scholar batches and academic year. Transparent breakdown provided during personal campus counseling.
+
+
+==================================================
+[GLOBAL FOOTER]
+==================================================
+EX-RISALDAR MAJOR
+M. K. PAWAR
+NDA & DEFENCE ACADEMY
+Pune’s premier residential defence academy founded in honour of Ex-Risaldar Major M. K. Pawar (61st Cavalry). Integrating 11th & 12th state/CBSE curriculum with intensive NDA written coaching and rigorous 5-day SSB interview preparation.
+
+BEG SAPPERS • 61ST CAVALRY LINEAGE
+18°26'55"N 73°49'32"E // NARHE HQ
+
+>>> [HEADING 3] Service Files
+
+  * 00 Home Base
+  * 01 Three Generations
+  * 02 Course Blueprints
+  * 03 NDA & 5-Day SSB
+  * 04 Campus Life & Routine
+  * 05 Records & Gallery
+  * 06 Admissions Checklist
+
+
+>>> [HEADING 3] Training Wings
+
+  * 2-Yr NDA Integrated (XI + XII)
+  * 1-Yr NDA Target Batch
+  * 6-Month Intensive Written + SSB
+  * 5-Day SSB Interview Prep
+  * CDS & AFCAT Officer Wing
+  * MHT-CET & JEE Foundation
+
+
+>>> [HEADING 3] Admissions HQ
+Direct Telephone:
+[Action/Link: +91 86690 99430 -> tel:8669099430]
+Academy Campus:
+Narhe Campus, Pune, Maharashtra 411041
+Reporting Hours:
+Mon – Sat: 08:30 – 19:00 IST
+[Action/Link: WhatsApp Admissions -> https://wa.me/918669099430?text=Jai%20Hind%20Sir%2C%20I%20would%20like%20to%20enquire%20about%20admission.]
+STATUTORY DISCLAIMER & ADMISSION ETHICS
+CODE: UPSC-SSB-DISCLAIMER-2026
+Ex-Risaldar Major M. K. Pawar NDA & Defence Academy is an independent educational training institution. Selection into the National Defence Academy (NDA), Indian Military Academy (IMA), Air Force Academy (AFA), Indian Naval Academy (INA), or Officer Training Academy (OTA) is decided solely by the Union Public Service Commission (UPSC), Services Selection Boards (SSBs), and competent Armed Forces Medical Boards. The Academy provides preparatory guidance, academic coaching, and physical conditioning; it does not guarantee selection.
+
+© 2026 Ex-Risaldar Major M. K. Pawar NDA & Defence Academy. All rights reserved.
+[Action/Link: Privacy Policy -> privacy-policy.html]
+•
+[Action/Link: Terms of Service -> terms.html]
+•
+Jai Hind!
+
+
+
+################################################################################
+
+
+================================================================================
+PAGE FILE: nda-ssb.html
+DESCRIPTION: NDA & SSB Training Wing (Written Exam Strategy, 5-Day SSB Interview Board Cycle, GTO Obstacle Grounds, Psychology & Personal Interview)
+PAGE TITLE: NDA Written & 5-Day SSB Blueprint | Ex-Risaldar Major M. K. Pawar NDA Academy Pune
+META DESCRIPTION: Comprehensive guide to UPSC NDA Written examination structure, 5-Day SSB interview testing stages, and the 15 Officer Like Qualities (OLQs).
+================================================================================
+
+[HEADER & NAVIGATION]
+[Action/Link: EX-RISALDAR MAJOR
+M. K. PAWAR
+NDA & DEFENCE ACADEMY -> index.html]
+[Action/Link: Home -> index.html]
+[Action/Link: The Academy -> about.html]
+[Action/Link: Programmes -> courses.html]
+[Action/Link: NDA & SSB -> nda-ssb.html]
+[Action/Link: Campus Life -> campus-training.html]
+[Action/Link: Gallery -> achievements-gallery.html]
+BATCH 2026
+[Action/Link: Admissions -> admissions-contact.html]
+
+
+--- [SECTION: #section-1 (page-hero)] ---
+FILE 03 // SELECTION ARCHITECTURE
+UPSC & SERVICES SELECTION BOARD
+
+======================================================================
+[HEADING 1] NDA WRITTEN EXAM &THE 5-DAY SSB BATTERY.
+======================================================================
+Selection is an objective scientific filter. We break down the exact examination mechanics, marking schemes, and psychological evaluations required for recommendation.
+
+[Action/Link: Home -> index.html]
+/
+NDA & SSB
+
+--- [SECTION: #section-2 (section--light)] ---
+EXAMINATION MECHANICS
+
+
+--------------------------------------------------
+[HEADING 2] Stage I: The UPSC Written Blueprint
+--------------------------------------------------
+Total Marks: 900 • Duration: 5 Hours (Two Papers on the Same Day)
+
+PAPER 01
+300 MARKS // 2.5 HOURS
+
+>>> [HEADING 3] Mathematics
+120 Questions (2.5 marks each; negative 0.83 marks). Cut-off qualifying score is mandatory (~25% minimum per paper, target 130+ marks).
+
+
+  • [SUBHEADING] Key High-Yield Modules:
+
+  * Calculus: Differential, Integral, Differential Equations (28–32 Qs)
+  * Trigonometry: Identities, Inverse, Heights & Distances (15–18 Qs)
+  * Algebra: Matrices & Determinants, Complex Numbers, Sequences (25–30 Qs)
+  * Vector Algebra & 3D Geometry (10–12 Qs)
+  * Statistics & Probability (12–15 Qs)
+
+PAPER 02
+600 MARKS // 2.5 HOURS
+
+>>> [HEADING 3] General Ability Test (GAT)
+150 Questions (4 marks each; negative 1.33 marks). Divided into Part A (English) and Part B (General Knowledge & Science).
+
+
+  • [SUBHEADING] Key Syllabus Breakdown:
+
+  * Part A: English (200 Marks / 50 Qs) — Spotting Errors, Vocabulary, Synonyms/Antonyms, Comprehension
+  * Part B: Physics (100 Marks / 25 Qs) — Mechanics, Optics, Electricity, Heat & Sound
+  * Part B: Chemistry (60 Marks / 15 Qs) — Atomic structure, Acids/Bases, Physical chemistry
+  * Part B: General Science / Biology (40 Marks / 10 Qs)
+  * Part B: History, Polity, Geography & Current Affairs (200 Marks / 50 Qs)
+
+
+--- [SECTION: #section-3 (section--dark)] ---
+STAGE II // 5-DAY TESTING MATRIX
+
+
+--------------------------------------------------
+[HEADING 2] The Five Days of SSB Testing
+--------------------------------------------------
+Conducted at Services Selection Boards across India (Allahabad, Bhopal, Bangalore, Kapurthala, Gandhinagar, Dehradun).
+
+DAY 01
+
+>>> [HEADING 3] Screening Test (Stage I)
+The first elimination hurdle. Only screened-in candidates stay for the remaining 4 days.
+
+
+  * OIR: Officer Intelligence Rating Tests (Verbal & Non-verbal reasoning)
+  * PPDT: Picture Perception & Description Test (30 sec view, 4 min story)
+  * Individual Story Narration & Group Discussion
+
+DAY 02
+
+>>> [HEADING 3] Psychological Battery
+Written psychological assessments evaluating subconscious instincts and OLQs under time pressure.
+
+
+  * TAT: Thematic Apperception Test (12 slides including 1 blank)
+  * WAT: Word Association Test (60 words, 15 sec per word)
+  * SRT: Situation Reaction Test (60 situations, 30 min)
+  * SD: Self-Description Test (Parents, Teachers, Friends & Self views)
+
+DAY 03
+
+>>> [HEADING 3] Group Testing (GTO Day 1)
+Outdoor practical tasks assessing team cooperation, practical intelligence, and physical grit.
+
+
+  * GD: Group Discussions on national security
+  * GPE: Group Planning Exercise (map problem)
+  * PGT: Progressive Group Task with planks & ropes
+  * HGT: Snake Race & Obstacle Relay
+
+DAY 04
+
+>>> [HEADING 3] GTO Day 2 & Interviews
+Individual command tests and personal interviews with the President of the Board.
+
+
+  * Command Task: Command subordinates over obstacle
+  * Individual Obstacles: 10 physical obstacles in 3 mins
+  * FGT: Final Group Task
+  * Personal Interview: In-depth PIQ interrogation
+
+DAY 05
+
+>>> [HEADING 3] Board Conference & Results
+All assessors (Psychologist, GTO, Interviewing Officer) convene in full uniform to finalize recommendations.
+
+
+  * Candidate appears before the entire board for brief confirmation questions
+  * Final compilation of scores across all 3 testing techniques
+  * Announcement of Recommended Candidates
+  * Recommended candidates proceed to Military Medical Board
+
+
+--- [SECTION: #section-4 (section--light)] ---
+THE 15 OFFICER LIKE QUALITIES (OLQs)
+
+
+--------------------------------------------------
+[HEADING 2] The Four Factors of Leadership
+--------------------------------------------------
+Every assessment in SSB evaluates whether these 15 core leadership traits are naturally demonstrated.
+
+FACTOR I
+
+>>> [HEADING 3] Planning & Organising
+
+  * Effective Intelligence: Practical solutions to complex hurdles.
+  * Reasoning Ability: Grasping essentials and logical thinking.
+  * Organising Ability: Arranging resources methodically.
+  * Power of Expression: Lucid oral and written delivery.
+
+FACTOR II
+
+>>> [HEADING 3] Social Adjustment
+
+  * Social Adaptability: Fitting into diverse soldier cultures.
+  * Co-operation: Selfless team contribution over ego.
+  * Sense of Responsibility: Extreme duty consciousness.
+
+FACTOR III
+
+>>> [HEADING 3] Social Effectiveness
+
+  * Initiative: Taking the first step in unfamiliar tasks.
+  * Self-Confidence: Inner faith in critical scenarios.
+  * Speed of Decision: Swift resolution under battle chaos.
+  * Ability to Influence the Group: Natural moral authority.
+  * Liveliness: High cheerfulness despite physical fatigue.
+
+FACTOR IV
+
+>>> [HEADING 3] Dynamic & Stamina
+
+  * Determination: Sustained effort without quitting.
+  * Courage: Mental grit to take calculated physical risks.
+  * Stamina: Capacity to endure prolonged physical strain.
+
+
+--- [SECTION: #section-5 (section--dark)] ---
+FREQUENTLY ANSWERED QUESTIONS
+
+
+--------------------------------------------------
+[HEADING 2] Clarifications on Admission & Selection
+--------------------------------------------------
+[Action/Button: Can female candidates apply for the NDA residential batch?
++]
+Yes. Following Supreme Court and Ministry of Defence orders, female cadets are fully eligible for the UPSC NDA examination and are welcomed into our dedicated residential training programs with segregated quarters and mentoring.
+
+[Action/Button: What is the age limit for the UPSC NDA examination?
++]
+Candidates must be between 16.5 and 19.5 years of age on the day the course commences at the National Defence Academy, Khadakwasla. Typically, students appear for NDA 1 and NDA 2 during Class 12 or immediately after passing 12th.
+
+[Action/Button: Does the Academy guarantee selection in the SSB?
++]
+Absolutely not. Any academy claiming guaranteed selection is unethical and false. Selection into the Armed Forces is decided solely by the Union Public Service Commission, Services Selection Boards, and Armed Forces Medical Boards. We provide world-class preparatory coaching, physical conditioning, and personality refinement.
+
+
+==================================================
+[GLOBAL FOOTER]
+==================================================
+EX-RISALDAR MAJOR
+M. K. PAWAR
+NDA & DEFENCE ACADEMY
+Pune’s premier residential defence academy founded in honour of Ex-Risaldar Major M. K. Pawar (61st Cavalry). Integrating 11th & 12th state/CBSE curriculum with intensive NDA written coaching and rigorous 5-day SSB interview preparation.
+
+BEG SAPPERS • 61ST CAVALRY LINEAGE
+18°26'55"N 73°49'32"E // NARHE HQ
+
+>>> [HEADING 3] Service Files
+
+  * 00 Home Base
+  * 01 Three Generations
+  * 02 Course Blueprints
+  * 03 NDA & 5-Day SSB
+  * 04 Campus Life & Routine
+  * 05 Records & Gallery
+  * 06 Admissions Checklist
+
+
+>>> [HEADING 3] Training Wings
+
+  * 2-Yr NDA Integrated (XI + XII)
+  * 1-Yr NDA Target Batch
+  * 6-Month Intensive Written + SSB
+  * 5-Day SSB Interview Prep
+  * CDS & AFCAT Officer Wing
+  * MHT-CET & JEE Foundation
+
+
+>>> [HEADING 3] Admissions HQ
+Direct Telephone:
+[Action/Link: +91 86690 99430 -> tel:8669099430]
+Academy Campus:
+Narhe Campus, Pune, Maharashtra 411041
+Reporting Hours:
+Mon – Sat: 08:30 – 19:00 IST
+[Action/Link: WhatsApp Admissions -> https://wa.me/918669099430?text=Jai%20Hind%20Sir%2C%20I%20would%20like%20to%20enquire%20about%20admission.]
+STATUTORY DISCLAIMER & ADMISSION ETHICS
+CODE: UPSC-SSB-DISCLAIMER-2026
+Ex-Risaldar Major M. K. Pawar NDA & Defence Academy is an independent educational training institution. Selection into the National Defence Academy (NDA), Indian Military Academy (IMA), Air Force Academy (AFA), Indian Naval Academy (INA), or Officer Training Academy (OTA) is decided solely by the Union Public Service Commission (UPSC), Services Selection Boards (SSBs), and competent Armed Forces Medical Boards. The Academy provides preparatory guidance, academic coaching, and physical conditioning; it does not guarantee selection.
+
+© 2026 Ex-Risaldar Major M. K. Pawar NDA & Defence Academy. All rights reserved.
+[Action/Link: Privacy Policy -> privacy-policy.html]
+•
+[Action/Link: Terms of Service -> terms.html]
+•
+Jai Hind!
+
+
+
+################################################################################
+
+
+================================================================================
+PAGE FILE: campus-training.html
+DESCRIPTION: Campus & Regimental Life (Lonavala/Pune Hills Facility, Drill Square, Obstacle Course, Mess Nutrition, Dormitories, Daily Routine)
+PAGE TITLE: Campus Life & Regimental Routine | Ex-Risaldar Major M. K. Pawar NDA Academy Pune
+META DESCRIPTION: Inside the residential campus in Narhe, Pune: 05:30 Reveille, cadet dormitories, regimental mess nutrition, 400m running track, and obstacle training.
+================================================================================
+
+[HEADER & NAVIGATION]
+[Action/Link: EX-RISALDAR MAJOR
+M. K. PAWAR
+NDA & DEFENCE ACADEMY -> index.html]
+[Action/Link: Home -> index.html]
+[Action/Link: The Academy -> about.html]
+[Action/Link: Programmes -> courses.html]
+[Action/Link: NDA & SSB -> nda-ssb.html]
+[Action/Link: Campus Life -> campus-training.html]
+[Action/Link: Gallery -> achievements-gallery.html]
+BATCH 2026
+[Action/Link: Admissions -> admissions-contact.html]
+
+
+--- [SECTION: #section-1 (page-hero)] ---
+FILE 04 // INFRASTRUCTURE & ROUTINE
+NARHE, PUNE CAMPUS
+
+======================================================================
+[HEADING 1] CADET LIVING QUARTERS &THE 05:30 REGIMEN.
+======================================================================
+An officer's bearing is sculpted in the routine. Our residential campus in Pune is architected to foster military discipline, intellectual focus, and regimental brotherhood.
+
+[Action/Link: Home -> index.html]
+/
+Campus Life
+
+--- [SECTION: #section-2 (section--white)] ---
+BARRACKS
+
+>>> [HEADING 3] Cadet Residential Quarters
+Iron cot beds, individual study desks, footlockers, and mandatory inspection tidiness.
+
+OBSTACLE GROUND
+
+>>> [HEADING 3] Military Obstacle Circuit
+Tarzan swing, rope climbing vertical posts, tiger leap, and balance beams for GTO confidence.
+
+ACADEMIC BLOCK
+
+>>> [HEADING 3] Acoustic Classrooms & Kota Lab
+Smart projections, concept derivation chalkboards, and quiet supervised evening study chambers.
+
+
+--- [SECTION: #section-3 (section--light)] ---
+INFRASTRUCTURE SPECIFICATIONS
+
+
+--------------------------------------------------
+[HEADING 2] Campus Facilities Sheet
+--------------------------------------------------
+A transparent audit of on-campus training amenities. Specifications pending final administrative verification carry a TO CONFIRM stamp.
+
+
+[TABLE DATA]
+Facility Name | Technical Specification | Verification Status
+Cadet Residential Dormitories | Segregated iron beds, individual study desks, footlockers | TO CONFIRM
+Regimental Mess & Nutrition | Balanced high-protein cadet diet planned for physical endurance | TO CONFIRM
+Obstacle Course (GTO Ground) | Tarzan swing, rope climbing, tiger leap, balance beams | TO CONFIRM
+Digital & Scientific Classrooms | Audio-visual projection, acoustics, Kota methodology | TO CONFIRM
+Standard 400m Running Track | Red soil stamina training circuit | TO CONFIRM
+SSB Group Discussion Chamber | Circular conference layout with digital recording | TO CONFIRM
+Medical & First Aid Post | Routine health monitoring and sports injury management | TO CONFIRM
+Library & Defence Reading Room | Military periodicals, defence yearbooks, competitive journals | TO CONFIRM
+
+
+--- [SECTION: #section-4 (section--dark)] ---
+THE 24-HOUR CADENCE
+
+
+--------------------------------------------------
+[HEADING 2] A Day at 05:30 Reveille
+--------------------------------------------------
+Every minute is accounted for. Punctuality and endurance become second nature.
+
+05:00 IST
+
+>>> [HEADING 3] First Bugle & Turnout
+Cadets prepare kit, inspection shoes, and assemble gear.
+
+TO CONFIRM
+05:30 IST
+
+>>> [HEADING 3] Reveille & Ground Muster
+Parade ground fall-in, morning salutation, and warm-up.
+
+TO CONFIRM
+06:00 – 07:15 IST
+
+>>> [HEADING 3] PT & Cross-Country
+5km stamina conditioning, sprints, and obstacle drills.
+
+TO CONFIRM
+07:30 – 08:15 IST
+
+>>> [HEADING 3] Cadet Mess Breakfast
+High-protein diet, eggs, sprouts, milk, porridge.
+
+TO CONFIRM
+08:30 – 13:00 IST
+
+>>> [HEADING 3] Academic Block 1
+Mathematics concepts derivation & competitive shortcuts.
+
+TO CONFIRM
+13:15 – 14:00 IST
+
+>>> [HEADING 3] Lunch & Regimental Rest
+Nutritious lunch followed by 45-min cognitive rest.
+
+TO CONFIRM
+14:15 – 16:30 IST
+
+>>> [HEADING 3] Academic Block 2
+GAT, English comprehension & UPSC history workshops.
+
+TO CONFIRM
+16:45 – 18:00 IST
+
+>>> [HEADING 3] Obstacle & Drill Ground
+SSB ground tasks, group obstacles, basketball & drill.
+
+TO CONFIRM
+18:30 – 20:30 IST
+
+>>> [HEADING 3] Supervised Self-Study
+Mandatory quiet hours solving DPP sheets with faculty.
+
+TO CONFIRM
+20:45 – 21:30 IST
+
+>>> [HEADING 3] Dinner & News Debrief
+Evening meal and 15-minute national security review.
+
+TO CONFIRM
+21:45 IST
+
+>>> [HEADING 3] Roll Call & Inspection
+Barracks muster and kit preparation for dawn reveille.
+
+TO CONFIRM
+22:00 IST
+
+>>> [HEADING 3] Lights Out
+Complete quiet for physical recovery and memory consolidation.
+
+TO CONFIRM
+
+==================================================
+[GLOBAL FOOTER]
+==================================================
+EX-RISALDAR MAJOR
+M. K. PAWAR
+NDA & DEFENCE ACADEMY
+Pune’s premier residential defence academy founded in honour of Ex-Risaldar Major M. K. Pawar (61st Cavalry). Integrating 11th & 12th state/CBSE curriculum with intensive NDA written coaching and rigorous 5-day SSB interview preparation.
+
+BEG SAPPERS • 61ST CAVALRY LINEAGE
+18°26'55"N 73°49'32"E // NARHE HQ
+
+>>> [HEADING 3] Service Files
+
+  * 00 Home Base
+  * 01 Three Generations
+  * 02 Course Blueprints
+  * 03 NDA & 5-Day SSB
+  * 04 Campus Life & Routine
+  * 05 Records & Gallery
+  * 06 Admissions Checklist
+
+
+>>> [HEADING 3] Training Wings
+
+  * 2-Yr NDA Integrated (XI + XII)
+  * 1-Yr NDA Target Batch
+  * 6-Month Intensive Written + SSB
+  * 5-Day SSB Interview Prep
+  * CDS & AFCAT Officer Wing
+  * MHT-CET & JEE Foundation
+
+
+>>> [HEADING 3] Admissions HQ
+Direct Telephone:
+[Action/Link: +91 86690 99430 -> tel:8669099430]
+Academy Campus:
+Narhe Campus, Pune, Maharashtra 411041
+Reporting Hours:
+Mon – Sat: 08:30 – 19:00 IST
+[Action/Link: WhatsApp Admissions -> https://wa.me/918669099430?text=Jai%20Hind%20Sir%2C%20I%20would%20like%20to%20enquire%20about%20admission.]
+STATUTORY DISCLAIMER & ADMISSION ETHICS
+CODE: UPSC-SSB-DISCLAIMER-2026
+Ex-Risaldar Major M. K. Pawar NDA & Defence Academy is an independent educational training institution. Selection into the National Defence Academy (NDA), Indian Military Academy (IMA), Air Force Academy (AFA), Indian Naval Academy (INA), or Officer Training Academy (OTA) is decided solely by the Union Public Service Commission (UPSC), Services Selection Boards (SSBs), and competent Armed Forces Medical Boards. The Academy provides preparatory guidance, academic coaching, and physical conditioning; it does not guarantee selection.
+
+© 2026 Ex-Risaldar Major M. K. Pawar NDA & Defence Academy. All rights reserved.
+[Action/Link: Privacy Policy -> privacy-policy.html]
+•
+[Action/Link: Terms of Service -> terms.html]
+•
+Jai Hind!
+
+
+
+################################################################################
+
+
+================================================================================
+PAGE FILE: achievements-gallery.html
+DESCRIPTION: Cadet Gallery & Hall of Fame (Regimental Archives, NDA Passing Out Parades, SSB Recommendations, Sports, Life at Academy)
+PAGE TITLE: Cadet Records & Training Gallery | Ex-Risaldar Major M. K. Pawar NDA Academy Pune
+META DESCRIPTION: Authentic documentary gallery of cadet physical conditioning, obstacle course navigation, academic lectures, and verification policy.
+================================================================================
+
+[HEADER & NAVIGATION]
+[Action/Link: EX-RISALDAR MAJOR
+M. K. PAWAR
+NDA & DEFENCE ACADEMY -> index.html]
+[Action/Link: Home -> index.html]
+[Action/Link: The Academy -> about.html]
+[Action/Link: Programmes -> courses.html]
+[Action/Link: NDA & SSB -> nda-ssb.html]
+[Action/Link: Campus Life -> campus-training.html]
+[Action/Link: Gallery -> achievements-gallery.html]
+BATCH 2026
+[Action/Link: Admissions -> admissions-contact.html]
+
+
+--- [SECTION: #section-1 (page-hero)] ---
+FILE 05 // VISUAL LOGS & VERIFIED RECORDS
+PUNE RESIDENTIAL BATTALION
+
+======================================================================
+[HEADING 1] TRAINING FIELD LOGS &INSTITUTIONAL RECORDS.
+======================================================================
+A documentary record of cadet physical conditioning, obstacle drills, and classroom sessions. We value authenticity above commercial exaggeration.
+
+[Action/Link: Home -> index.html]
+/
+Gallery
+
+--- [SECTION: #section-2 (section--white)] ---
+INSTITUTIONAL INTEGRITY PLEDGE
+
+--------------------------------------------------
+[HEADING 2] Verified Selection Dossier
+--------------------------------------------------
+Ex-Risaldar Major M. K. Pawar NDA & Defence Academy is an institution founded on strict military honour. We do not publish rented testimonials, stock-photo "success stories", or unverified merit lists.
+
+[ OFFICIAL SELECTIONS & UPSC MERIT ROLLS FOR ONGOING BATCHES WILL BE PUBLISHED HERE UPON COMMENCEMENT ]
+
+
+--- [SECTION: #section-3 (gallery-section section--light)] ---
+DOCUMENTARY ARCHIVE
+
+
+--------------------------------------------------
+[HEADING 2] Photographic Training Logs
+--------------------------------------------------
+Click or tap any frame to inspect high-resolution documentary captures.
+
+05:30 Reveille // Misty Sahyadri Terrain
+Cadet Cadence // Group Endurance Run
+Stamina Conditioning // 400m Track
+Obstacle Course // Vertical Rope Drill
+SSB Ground // Obstacle Course Ground
+SSB Group Tasks // Team Cohesion
+Academic Block // Kota Science Pedagogy
+UPSC NDA Paper I // Mathematics Analysis
+Barracks // Residential Living Quarters
+
+==================================================
+[GLOBAL FOOTER]
+==================================================
+EX-RISALDAR MAJOR
+M. K. PAWAR
+NDA & DEFENCE ACADEMY
+Pune’s premier residential defence academy founded in honour of Ex-Risaldar Major M. K. Pawar (61st Cavalry). Integrating 11th & 12th state/CBSE curriculum with intensive NDA written coaching and rigorous 5-day SSB interview preparation.
+
+BEG SAPPERS • 61ST CAVALRY LINEAGE
+18°26'55"N 73°49'32"E // NARHE HQ
+
+>>> [HEADING 3] Service Files
+
+  * 00 Home Base
+  * 01 Three Generations
+  * 02 Course Blueprints
+  * 03 NDA & 5-Day SSB
+  * 04 Campus Life & Routine
+  * 05 Records & Gallery
+  * 06 Admissions Checklist
+
+
+>>> [HEADING 3] Training Wings
+
+  * 2-Yr NDA Integrated (XI + XII)
+  * 1-Yr NDA Target Batch
+  * 6-Month Intensive Written + SSB
+  * 5-Day SSB Interview Prep
+  * CDS & AFCAT Officer Wing
+  * MHT-CET & JEE Foundation
+
+
+>>> [HEADING 3] Admissions HQ
+Direct Telephone:
+[Action/Link: +91 86690 99430 -> tel:8669099430]
+Academy Campus:
+Narhe Campus, Pune, Maharashtra 411041
+Reporting Hours:
+Mon – Sat: 08:30 – 19:00 IST
+[Action/Link: WhatsApp Admissions -> https://wa.me/918669099430?text=Jai%20Hind%20Sir%2C%20I%20would%20like%20to%20enquire%20about%20admission.]
+STATUTORY DISCLAIMER & ADMISSION ETHICS
+CODE: UPSC-SSB-DISCLAIMER-2026
+Ex-Risaldar Major M. K. Pawar NDA & Defence Academy is an independent educational training institution. Selection into the National Defence Academy (NDA), Indian Military Academy (IMA), Air Force Academy (AFA), Indian Naval Academy (INA), or Officer Training Academy (OTA) is decided solely by the Union Public Service Commission (UPSC), Services Selection Boards (SSBs), and competent Armed Forces Medical Boards. The Academy provides preparatory guidance, academic coaching, and physical conditioning; it does not guarantee selection.
+
+© 2026 Ex-Risaldar Major M. K. Pawar NDA & Defence Academy. All rights reserved.
+[Action/Link: Privacy Policy -> privacy-policy.html]
+•
+[Action/Link: Terms of Service -> terms.html]
+•
+Jai Hind!
+
+
+
+################################################################################
+
+
+================================================================================
+PAGE FILE: admissions-contact.html
+DESCRIPTION: Admissions & Regimental Enquiry (Selection Process, Medical Standards, Fee Structure, Registration Form, Campus Location)
+PAGE TITLE: Admissions & Cadet Enrolment | Ex-Risaldar Major M. K. Pawar NDA Academy Pune
+META DESCRIPTION: Apply for residential admission to M. K. Pawar NDA & Defence Academy in Narhe, Pune. 5-step admission process, eligibility guidelines, and direct hotline.
+================================================================================
+
+[HEADER & NAVIGATION]
+[Action/Link: EX-RISALDAR MAJOR
+M. K. PAWAR
+NDA & DEFENCE ACADEMY -> index.html]
+[Action/Link: Home -> index.html]
+[Action/Link: The Academy -> about.html]
+[Action/Link: Programmes -> courses.html]
+[Action/Link: NDA & SSB -> nda-ssb.html]
+[Action/Link: Campus Life -> campus-training.html]
+[Action/Link: Gallery -> achievements-gallery.html]
+BATCH 2026
+[Action/Link: Admissions -> admissions-contact.html]
+
+
+--- [SECTION: #section-1 (page-hero)] ---
+FILE 06 // ADMISSIONS PROTOCOL
+SESSION 2026-27
+
+======================================================================
+[HEADING 1] CADET ENROLMENT &ADMISSION PROCEDURE.
+======================================================================
+Residential seats are strictly allocated through personal counselling and academic baseline testing. Follow our 5-step induction protocol below.
+
+[Action/Link: Home -> index.html]
+/
+Admissions
+
+--- [SECTION: #section-2 (checklist-section section--light)] ---
+INDUCTION PROTOCOL
+
+
+--------------------------------------------------
+[HEADING 2] The Five-Step Enrolment File
+--------------------------------------------------
+A clear step-by-step pathway from initial application to battalion fall-in.
+
+
+  * 01
+
+Dossier Submission & Initial Registration
+Submit candidate details via the admission form below or visit the campus admissions cell. Provide 10th/12th academic marksheets and photo identification.
+  * 02
+
+Academic & Physical Baseline Diagnostic
+Cadets undergo an aptitude diagnostic in basic mathematics, logical reasoning, and English, followed by a preliminary physical fitness evaluation (run, push-ups, chin-ups).
+  * 03
+
+Director Counselling & Parent Orientation
+One-on-one session with Academic Director Prof. Ravindra Pawar to align expectations, choose the integrated curriculum pathway, and discuss residential boarding rules.
+  * 04
+
+Barracks Allotment & Kit Issue
+Allotment of cadet dormitory bed, study table, and regimental training kit (PT rig, squad uniform, notebook satchels, and DPP material).
+  * 05
+
+Battalion Fall-In & 05:30 Reveille Induction
+Formal induction into the Academy cohort. The cadet begins the transformative 24-hour regimental schedule under direct faculty and physical instructors.
+
+
+--- [SECTION: #enquiry (contact-section)] ---
+DIRECT RECRUITMENT CELL
+
+
+--------------------------------------------------
+[HEADING 2] Contact AdmissionsOfficer in Pune.
+--------------------------------------------------
+Our admissions team is available 6 days a week to guide parents and defence aspirants on course selection and residential hostel accommodations.
+
+Admissions Hotline (Voice / SMS)
+[Action/Link: +91 86690 99430 -> tel:8669099430]
+Campus Location & Coordinates
+Narhe Campus, Pune, Maharashtra, India (18°26'55"N 73°49'32"E)
+[Action/Link: Instant WhatsApp Admissions Link -> https://wa.me/918669099430?text=Jai%20Hind%20Sir%2C%20I%20would%20like%20to%20enquire%20about%20admission%20process%20and%20fees.]
+Selection Ethics: Admission to the Armed Forces is conducted solely by UPSC, SSBs, and Armed Forces medical boards. The Academy does not guarantee selection.
+
+
+>>> [HEADING 3] Direct Candidate Registration File
+Complete all fields accurately. You will receive an official call from admissions within 24 hours.
+
+Don't fill this out:
+
+Cadet / Student Full Name *
+Parent / Guardian Full Name *
+10-Digit Mobile Number *
+Current Class / Qualification *
+Select Current Stage
+Class 10 (Early Foundation)
+Class 11 (2-Year Integrated)
+Class 12 / Appearing
+12th Passed (Target NDA Dropper)
+College Graduate (CDS / AFCAT)
+Target Programme *
+Select Programme
+NDA Written & SSB Foundation (1 / 2 Year)
+SSB Personality & Interview Guidance (14-Day)
+CDS (Combined Defence Services)
+AFCAT (Air Force Common Admission Test)
+IMU-CET & Merchant Navy Guidance
+JEE Main & Army 10+2 TES Integrated
+MHT-CET & State Engineering Batch
+I confirm the above details are authentic and consent to receiving official admission counselling and prospectus communication from the Academy.
+[Action/Button: Submit Enrolment File — Jai Hind!]
+
+==================================================
+[GLOBAL FOOTER]
+==================================================
+EX-RISALDAR MAJOR
+M. K. PAWAR
+NDA & DEFENCE ACADEMY
+Pune’s premier residential defence academy founded in honour of Ex-Risaldar Major M. K. Pawar (61st Cavalry). Integrating 11th & 12th state/CBSE curriculum with intensive NDA written coaching and rigorous 5-day SSB interview preparation.
+
+BEG SAPPERS • 61ST CAVALRY LINEAGE
+18°26'55"N 73°49'32"E // NARHE HQ
+
+>>> [HEADING 3] Service Files
+
+  * 00 Home Base
+  * 01 Three Generations
+  * 02 Course Blueprints
+  * 03 NDA & 5-Day SSB
+  * 04 Campus Life & Routine
+  * 05 Records & Gallery
+  * 06 Admissions Checklist
+
+
+>>> [HEADING 3] Training Wings
+
+  * 2-Yr NDA Integrated (XI + XII)
+  * 1-Yr NDA Target Batch
+  * 6-Month Intensive Written + SSB
+  * 5-Day SSB Interview Prep
+  * CDS & AFCAT Officer Wing
+  * MHT-CET & JEE Foundation
+
+
+>>> [HEADING 3] Admissions HQ
+Direct Telephone:
+[Action/Link: +91 86690 99430 -> tel:8669099430]
+Academy Campus:
+Narhe Campus, Pune, Maharashtra 411041
+Reporting Hours:
+Mon – Sat: 08:30 – 19:00 IST
+[Action/Link: WhatsApp Admissions -> https://wa.me/918669099430?text=Jai%20Hind%20Sir%2C%20I%20would%20like%20to%20enquire%20about%20admission.]
+STATUTORY DISCLAIMER & ADMISSION ETHICS
+CODE: UPSC-SSB-DISCLAIMER-2026
+Ex-Risaldar Major M. K. Pawar NDA & Defence Academy is an independent educational training institution. Selection into the National Defence Academy (NDA), Indian Military Academy (IMA), Air Force Academy (AFA), Indian Naval Academy (INA), or Officer Training Academy (OTA) is decided solely by the Union Public Service Commission (UPSC), Services Selection Boards (SSBs), and competent Armed Forces Medical Boards. The Academy provides preparatory guidance, academic coaching, and physical conditioning; it does not guarantee selection.
+
+© 2026 Ex-Risaldar Major M. K. Pawar NDA & Defence Academy. All rights reserved.
+[Action/Link: Privacy Policy -> privacy-policy.html]
+•
+[Action/Link: Terms of Service -> terms.html]
+•
+Jai Hind!
+
+
+
+################################################################################
+
+
+================================================================================
+PAGE FILE: privacy-policy.html
+DESCRIPTION: Legal: Privacy Policy & Data Protection
+PAGE TITLE: Privacy Policy | Ex-Risaldar Major M. K. Pawar NDA Academy Pune
+META DESCRIPTION: Privacy Policy for Ex-Risaldar Major M. K. Pawar NDA & Defence Academy, Pune.
+================================================================================
+
+[HEADER & NAVIGATION]
+[Action/Link: EX-RISALDAR MAJOR
+M. K. PAWAR
+NDA & DEFENCE ACADEMY -> index.html]
+[Action/Link: Home -> index.html]
+[Action/Link: The Academy -> about.html]
+[Action/Link: Programmes -> courses.html]
+[Action/Link: NDA & SSB -> nda-ssb.html]
+[Action/Link: Campus Life -> campus-training.html]
+[Action/Link: Gallery -> achievements-gallery.html]
+BATCH 2026
+[Action/Link: Admissions -> admissions-contact.html]
+
+
+--- [SECTION: #section-1 ()] ---
+
+--------------------------------------------------
+[HEADING 2] 1. Information Collected
+--------------------------------------------------
+Ex-Risaldar Major M. K. Pawar NDA & Defence Academy collects personal identification details (cadet name, parent/guardian name, telephone contact, academic qualifications, and program interest) solely for the purpose of academic counseling, batch registration, and communication regarding admission to our training batches.
+
+
+--------------------------------------------------
+[HEADING 2] 2. Use of Information
+--------------------------------------------------
+We use the submitted information strictly to process applications, provide course brochures, schedule diagnostic entrance assessments, and verify cadet eligibility for UPSC/SSB age limits. We do not sell, rent, or trade student data with third-party advertising brokers.
+
+
+--------------------------------------------------
+[HEADING 2] 3. Statutory Selection Independence
+--------------------------------------------------
+The Academy is an independent preparatory training institution. Submitting an admission inquiry or enrolling in our academic coaching does not represent an application to or affiliation with the Union Public Service Commission (UPSC), Ministry of Defence, or any Services Selection Board (SSB).
+
+
+--------------------------------------------------
+[HEADING 2] 4. Data Protection & Inquiries
+--------------------------------------------------
+For any queries regarding your stored application information, or to request removal from our communications register, contact the admissions office directly at +91 86690 99430 or visit our Narhe campus in Pune.
+
+
+==================================================
+[GLOBAL FOOTER]
+==================================================
+EX-RISALDAR MAJOR
+M. K. PAWAR
+NDA & DEFENCE ACADEMY
+Pune’s premier residential defence academy founded in honour of Ex-Risaldar Major M. K. Pawar (61st Cavalry). Integrating 11th & 12th state/CBSE curriculum with intensive NDA written coaching and rigorous 5-day SSB interview preparation.
+
+BEG SAPPERS • 61ST CAVALRY LINEAGE
+18°26'55"N 73°49'32"E // NARHE HQ
+
+>>> [HEADING 3] Service Files
+
+  * 00 Home Base
+  * 01 Three Generations
+  * 02 Course Blueprints
+  * 03 NDA & 5-Day SSB
+  * 04 Campus Life & Routine
+  * 05 Records & Gallery
+  * 06 Admissions Checklist
+
+
+>>> [HEADING 3] Training Wings
+
+  * 2-Yr NDA Integrated (XI + XII)
+  * 1-Yr NDA Target Batch
+  * 6-Month Intensive Written + SSB
+  * 5-Day SSB Interview Prep
+  * CDS & AFCAT Officer Wing
+  * MHT-CET & JEE Foundation
+
+
+>>> [HEADING 3] Admissions HQ
+Direct Telephone:
+[Action/Link: +91 86690 99430 -> tel:8669099430]
+Academy Campus:
+Narhe Campus, Pune, Maharashtra 411041
+Reporting Hours:
+Mon – Sat: 08:30 – 19:00 IST
+[Action/Link: WhatsApp Admissions -> https://wa.me/918669099430?text=Jai%20Hind%20Sir%2C%20I%20would%20like%20to%20enquire%20about%20admission.]
+STATUTORY DISCLAIMER & ADMISSION ETHICS
+CODE: UPSC-SSB-DISCLAIMER-2026
+Ex-Risaldar Major M. K. Pawar NDA & Defence Academy is an independent educational training institution. Selection into the National Defence Academy (NDA), Indian Military Academy (IMA), Air Force Academy (AFA), Indian Naval Academy (INA), or Officer Training Academy (OTA) is decided solely by the Union Public Service Commission (UPSC), Services Selection Boards (SSBs), and competent Armed Forces Medical Boards. The Academy provides preparatory guidance, academic coaching, and physical conditioning; it does not guarantee selection.
+
+© 2026 Ex-Risaldar Major M. K. Pawar NDA & Defence Academy. All rights reserved.
+[Action/Link: Privacy Policy -> privacy-policy.html]
+•
+[Action/Link: Terms of Service -> terms.html]
+•
+Jai Hind!
+
+
+
+################################################################################
+
+
+================================================================================
+PAGE FILE: terms.html
+DESCRIPTION: Legal: Terms & Conditions of Enrollment
+PAGE TITLE: Terms of Service & Admission Ethics | Ex-Risaldar Major M. K. Pawar NDA Academy Pune
+META DESCRIPTION: Terms of Service, code of conduct, and statutory selection ethics for M. K. Pawar NDA & Defence Academy, Pune.
+================================================================================
+
+[HEADER & NAVIGATION]
+[Action/Link: EX-RISALDAR MAJOR
+M. K. PAWAR
+NDA & DEFENCE ACADEMY -> index.html]
+[Action/Link: Home -> index.html]
+[Action/Link: The Academy -> about.html]
+[Action/Link: Programmes -> courses.html]
+[Action/Link: NDA & SSB -> nda-ssb.html]
+[Action/Link: Campus Life -> campus-training.html]
+[Action/Link: Gallery -> achievements-gallery.html]
+BATCH 2026
+[Action/Link: Admissions -> admissions-contact.html]
+
+
+--- [SECTION: #section-1 ()] ---
+
+--------------------------------------------------
+[HEADING 2] 1. Non-Negotiable Selection Disclaimer
+--------------------------------------------------
+Ex-Risaldar Major M. K. Pawar NDA & Defence Academy is an independent educational training institution. Selection into the National Defence Academy (NDA), Indian Military Academy (IMA), Air Force Academy (AFA), Indian Naval Academy (INA), or Officer Training Academy (OTA) is decided solely by the Union Public Service Commission (UPSC), Services Selection Boards (SSBs), and competent Armed Forces medical boards. The Academy provides preparatory guidance, academic coaching, and physical conditioning; it does not and cannot guarantee selection.
+
+
+--------------------------------------------------
+[HEADING 2] 2. Cadet Code of Conduct & 05:30 Reveille
+--------------------------------------------------
+Cadets admitted to residential programs are subject to regimental disciplinary standards. Punctual turnout for the 05:30 Reveille muster, mandatory attendance in supervised self-study hours, respectful conduct towards faculty and peers, and strict compliance with the mobile phone policy are conditions of continued enrollment.
+
+
+--------------------------------------------------
+[HEADING 2] 3. Medical & Physical Fitness Acknowledgment
+--------------------------------------------------
+Parents and candidates acknowledge that physical training, cross-country stamina runs, and military obstacle courses involve inherent physical exercise. Candidates must disclose any pre-existing medical conditions, surgical histories, or cardiovascular limitations prior to battalion induction.
+
+
+--------------------------------------------------
+[HEADING 2] 4. Jurisdiction
+--------------------------------------------------
+Any administrative disputes or contractual inquiries related to enrollment shall fall under the exclusive jurisdiction of the competent civil courts in Pune, Maharashtra, India.
+
+
+==================================================
+[GLOBAL FOOTER]
+==================================================
+EX-RISALDAR MAJOR
+M. K. PAWAR
+NDA & DEFENCE ACADEMY
+Pune’s premier residential defence academy founded in honour of Ex-Risaldar Major M. K. Pawar (61st Cavalry). Integrating 11th & 12th state/CBSE curriculum with intensive NDA written coaching and rigorous 5-day SSB interview preparation.
+
+BEG SAPPERS • 61ST CAVALRY LINEAGE
+18°26'55"N 73°49'32"E // NARHE HQ
+
+>>> [HEADING 3] Service Files
+
+  * 00 Home Base
+  * 01 Three Generations
+  * 02 Course Blueprints
+  * 03 NDA & 5-Day SSB
+  * 04 Campus Life & Routine
+  * 05 Records & Gallery
+  * 06 Admissions Checklist
+
+
+>>> [HEADING 3] Training Wings
+
+  * 2-Yr NDA Integrated (XI + XII)
+  * 1-Yr NDA Target Batch
+  * 6-Month Intensive Written + SSB
+  * 5-Day SSB Interview Prep
+  * CDS & AFCAT Officer Wing
+  * MHT-CET & JEE Foundation
+
+
+>>> [HEADING 3] Admissions HQ
+Direct Telephone:
+[Action/Link: +91 86690 99430 -> tel:8669099430]
+Academy Campus:
+Narhe Campus, Pune, Maharashtra 411041
+Reporting Hours:
+Mon – Sat: 08:30 – 19:00 IST
+[Action/Link: WhatsApp Admissions -> https://wa.me/918669099430?text=Jai%20Hind%20Sir%2C%20I%20would%20like%20to%20enquire%20about%20admission.]
+STATUTORY DISCLAIMER & ADMISSION ETHICS
+CODE: UPSC-SSB-DISCLAIMER-2026
+Ex-Risaldar Major M. K. Pawar NDA & Defence Academy is an independent educational training institution. Selection into the National Defence Academy (NDA), Indian Military Academy (IMA), Air Force Academy (AFA), Indian Naval Academy (INA), or Officer Training Academy (OTA) is decided solely by the Union Public Service Commission (UPSC), Services Selection Boards (SSBs), and competent Armed Forces Medical Boards. The Academy provides preparatory guidance, academic coaching, and physical conditioning; it does not guarantee selection.
+
+© 2026 Ex-Risaldar Major M. K. Pawar NDA & Defence Academy. All rights reserved.
+[Action/Link: Privacy Policy -> privacy-policy.html]
+•
+[Action/Link: Terms of Service -> terms.html]
+•
+Jai Hind!
+
+
+
+################################################################################
+
+
+================================================================================
+PAGE FILE: thank-you.html
+DESCRIPTION: Confirmation: Application Received & Verification Next Steps
+PAGE TITLE: Cadet Application File Received | Ex-Risaldar Major M. K. Pawar NDA Academy
+================================================================================
+
+[HEADER & NAVIGATION]
+[Action/Link: EX-RISALDAR MAJOR
+M. K. PAWAR
+NDA & DEFENCE ACADEMY -> index.html]
+[Action/Link: Home -> index.html]
+[Action/Link: The Academy -> about.html]
+[Action/Link: Programmes -> courses.html]
+[Action/Link: NDA & SSB -> nda-ssb.html]
+[Action/Link: Campus Life -> campus-training.html]
+[Action/Link: Gallery -> achievements-gallery.html]
+BATCH 2026
+[Action/Link: Admissions -> admissions-contact.html]
+
+
+--- [SECTION: #section-1 ()] ---
+DOSSIER FILED
+
+======================================================================
+[HEADING 1] APPLICATION RECEIVED.
+======================================================================
+Your candidate details have been logged in the Academy registry. Our admissions cell will contact the parent / candidate within 24 business hours to schedule the diagnostic assessment and campus briefing.
+
+FOR URGENT BATCH INQUIRIES: CALL +91 86690 99430
+
+[Action/Link: Return to Main Dossier -> index.html]
+[Action/Link: Confirm via WhatsApp -> https://wa.me/918669099430?text=Jai%20Hind%20Sir%2C%20I%20have%20submitted%20my%20enquiry%20form%20online.]
+JAI HIND!
+
+
+
+################################################################################
+
+
+================================================================================
+PAGE FILE: 404.html
+DESCRIPTION: System Alert: 404 Route Not Found
+PAGE TITLE: Service File Not Found (404) | Ex-Risaldar Major M. K. Pawar NDA Academy
+================================================================================
+
+[HEADER & NAVIGATION]
+[Action/Link: EX-RISALDAR MAJOR
+M. K. PAWAR
+NDA & DEFENCE ACADEMY -> index.html]
+[Action/Link: Home -> index.html]
+[Action/Link: The Academy -> about.html]
+[Action/Link: Programmes -> courses.html]
+[Action/Link: NDA & SSB -> nda-ssb.html]
+[Action/Link: Campus Life -> campus-training.html]
+[Action/Link: Gallery -> achievements-gallery.html]
+BATCH 2026
+[Action/Link: Admissions -> admissions-contact.html]
+
+
+--- [SECTION: #section-1 (error-code)] ---
+404
+
+--- [SECTION: #section-2 (error-message)] ---
+UNREGISTERED SECTOR
+
+======================================================================
+[HEADING 1] FILE RECORD NOT FOUND
+======================================================================
+The coordinates or file number requested does not exist in the Academy registry. Fall back to the main headquarters dossier.
+
+[Action/Link: Return to Base (Home) -> index.html]
+[Action/Link: Browse Programmes -> courses.html]
+
+==================================================
+[GLOBAL FOOTER]
+==================================================
+EX-RISALDAR MAJOR
+M. K. PAWAR
+NDA & DEFENCE ACADEMY
+Pune’s premier residential defence academy founded in honour of Ex-Risaldar Major M. K. Pawar (61st Cavalry). Integrating 11th & 12th state/CBSE curriculum with intensive NDA written coaching and rigorous 5-day SSB interview preparation.
+
+BEG SAPPERS • 61ST CAVALRY LINEAGE
+18°26'55"N 73°49'32"E // NARHE HQ
+
+>>> [HEADING 3] Service Files
+
+  * 00 Home Base
+  * 01 Three Generations
+  * 02 Course Blueprints
+  * 03 NDA & 5-Day SSB
+  * 04 Campus Life & Routine
+  * 05 Records & Gallery
+  * 06 Admissions Checklist
+
+
+>>> [HEADING 3] Training Wings
+
+  * 2-Yr NDA Integrated (XI + XII)
+  * 1-Yr NDA Target Batch
+  * 6-Month Intensive Written + SSB
+  * 5-Day SSB Interview Prep
+  * CDS & AFCAT Officer Wing
+  * MHT-CET & JEE Foundation
+
+
+>>> [HEADING 3] Admissions HQ
+Direct Telephone:
+[Action/Link: +91 86690 99430 -> tel:8669099430]
+Academy Campus:
+Narhe Campus, Pune, Maharashtra 411041
+Reporting Hours:
+Mon – Sat: 08:30 – 19:00 IST
+[Action/Link: WhatsApp Admissions -> https://wa.me/918669099430?text=Jai%20Hind%20Sir%2C%20I%20would%20like%20to%20enquire%20about%20admission.]
+STATUTORY DISCLAIMER & ADMISSION ETHICS
+CODE: UPSC-SSB-DISCLAIMER-2026
+Ex-Risaldar Major M. K. Pawar NDA & Defence Academy is an independent educational training institution. Selection into the National Defence Academy (NDA), Indian Military Academy (IMA), Air Force Academy (AFA), Indian Naval Academy (INA), or Officer Training Academy (OTA) is decided solely by the Union Public Service Commission (UPSC), Services Selection Boards (SSBs), and competent Armed Forces Medical Boards. The Academy provides preparatory guidance, academic coaching, and physical conditioning; it does not guarantee selection.
+
+© 2026 Ex-Risaldar Major M. K. Pawar NDA & Defence Academy. All rights reserved.
+[Action/Link: Privacy Policy -> privacy-policy.html]
+•
+[Action/Link: Terms of Service -> terms.html]
+•
+Jai Hind!
+
+
+
+################################################################################
+
